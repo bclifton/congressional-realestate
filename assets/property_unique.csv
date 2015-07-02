@@ -1,0 +1,489 @@
+pfid,cid,name,code,original_address,google_address,lat,lng
+A000061,N00001102,"Velazquez, Nydia M",F4000,"84 Woodhull Street Brooklyn, NY 11231","84 Woodhull Street, Brooklyn, NY 11231, USA",40.680705,-74.001695
+A000103,N00001127,"Crowley, Joseph",F4000,"4 Farley Drive Albany, NY","4 Farley Drive, Rensselaer, NY 12144, USA",42.656203,-73.7137939
+A000190,N00001509,"Kanjorski, Paul E",F4000,"1/2 Interest, 126 S. Franklin St, Wilkes-Barre, PA","Wilkes University, 126 South Franklin Street, Wilkes-Barre, PA 18701, USA",41.24463000000001,-75.886105
+A000352,N00001849,"Wynn, Albert R",F4000,"7745 Greymont Street Hyattsville, MD","7745 Greymont Street, Hyattsville, MD 20785, USA",38.915114,-76.87320199999999
+A000459,N00001971,"Cummings, Elijah E",F4000,"2014 Madison Ave., Baltimore, MD","2014 Madison Avenue, Baltimore, MD 21217, USA",39.308818,-76.634468
+A000462,N00001971,"Cummings, Elijah E",F4000,"2225 St. Paul Street, Baltimore, MD","2225 Saint Paul Street, Baltimore, MD 21218, USA",39.315026,-76.614864
+A000674,N00002221,"Burr, Richard",F4000,"450 New Jersey Ave., SE Washington, DC residence","450 New Jersey Avenue Southeast, Washington, DC 20003, USA",38.883729,-77.006378
+A100084369,N00000143,"Olver, John W",F4000,"33 Myrtle Street, Boston, MA","33 Myrtle Street, Boston, MA 02114, USA",42.3593414,-71.0657872
+A100084404,N00000179,"McGovern, James P",F4000,"1225 Massachusetts Ave, SE, Washington, DC **basement rental unit**","1225 Massachusetts Avenue Southeast, Washington, DC 20003, USA",38.888852,-76.988784
+A100085316,N00000716,"Payne, Donald M",F4000,"19 Bock Avenue, Newark, NJ","19 Bock Avenue, Newark, NJ 07112, USA",40.7141069,-74.2064563
+A100085614,N00000964,"Rangel, Charles B",F4000,"74 West 132nd Street NY, NY 10037","74 West 132nd Street, New York, NY 10037, USA",40.811661,-73.941621
+A100085744,N00001127,"Crowley, Joseph",F4000,"1 Farley Drive, Rensselaer, NY","1 Farley Drive, Rensselaer, NY 12144, USA",42.656729,-73.713281
+A100085874,N00001373,"Doyle, Mike",F4000,"1916 Monongahela Avenue Pittsburgh, PA","1916 Monongahela Avenue, Pittsburgh, PA 15218, USA",40.421335,-79.890333
+A100087086,N00001971,"Cummings, Elijah E",F4000,"1830 11th St., NW, Ste 1, Washington, DC 20001","1830 11th Street Northwest #1, Washington, DC 20001, USA",38.9151921,-77.0272471
+A100087088,N00001971,"Cummings, Elijah E",F4000,"2221 St. Paul St., Baltimore, MD 21218 (Rental Property)","2221 Saint Paul Street, Baltimore, MD 21218, USA",39.314927,-76.614857
+A100087690,N00002793,"Mica, John L",F4000,"1305 S Atlantic Ave, Unit 130, Cocoa Beach, FL","1305 South Atlantic Avenue, Cocoa Beach, FL 32931, USA",28.2946535,-80.6078474
+A100087691,N00002793,"Mica, John L",F4000,"15 3rd Street NE Wash. DC, Units 2, 4, 5 & two garage units","15 3rd Street Northeast, Washington, DC 20002, USA",38.890411,-77.0018796
+A100087692,N00002793,"Mica, John L",F4000,"2195 Via Tuscany, Winter Park FL","2195 Vía Tuscany, Winter Park, FL 32789, USA",28.618852,-81.339478
+A100087693,N00002793,"Mica, John L",F4000,"305 E Capitol St SE, Wash. DC, 50% interest rental unit","305 East Capitol Street Southeast, Washington, DC 20003, USA",38.889528,-77.00166399999999
+A100087971,N00003522,"Kaptur, Marcy",F4000,"1848 Rivard Rd., Toledo, OH 43615","1848 Rivard Road, Toledo, OH 43615, USA",41.658082,-83.665953
+A100087972,N00003522,"Kaptur, Marcy",F4000,"1854 Harlan Rd, Toledo, OH 43615","1854 Harlan Road, Toledo, OH 43615, USA",41.658423,-83.663426
+A100087973,N00003522,"Kaptur, Marcy",F4000,"5151 Fleet Rd., Toledo, OH 43615","5151 Fleet Road, Toledo, OH 43615, USA",41.6585688,-83.6644034
+A100088907,N00004403,"Kind, Ron",F4000,"219 Pearl Street, La Crosse, WI 54601","219 Pearl Street, La Crosse, WI 54601, USA",43.81233,-91.25367
+A100089428,N00004961,"Shimkus, John M",F4000,"440 Spring Street, Collinsville, IL","440 Spring Avenue, Collinsville, IL 62234, USA",38.6777507,-89.9803647
+A100089429,N00004961,"Shimkus, John M",F4000,"690 9th Street, SW, Washington, DC","690 9th Street Southwest, Washington, DC 20024, USA",38.8815217,-77.0237916
+A100089638,N00005906,"Paul, Ron",F4000,"58 Flag Lake Plaza, Lake Jackson, TX (CARR, Ltd.)","58 Flag Lake Plaza, Lake Jackson, TX 77566, USA",29.018031,-95.4219043
+A100089873,N00006690,"Waters, Maxine",F4000,"2201 Kirk St., Houston, TX","2201 Kirk Street, Houston, TX 77026, USA",29.784006,-95.32658699999999
+A100089874,N00006690,"Waters, Maxine",F4000,"549 So. Lucerne Blvd., L.A.","549 South Lucerne Boulevard, Los Angeles, CA 90020, USA",34.063895,-118.324783
+A100089875,N00006690,"Waters, Maxine",F4000,"701 W. Barstow; Palm Springs, CA","Palm Springs, CA, USA",33.8302961,-116.5452921
+A100090083,N00007017,"Issa, Darrell",F4100,"212 S Main Street, LP *","212 East Main Street, Springfield, OH 45503, USA",39.924696,-83.80628399999999
+A100090085,N00007017,"Issa, Darrell",F4100,"1709 La Costa Meadows, LP *","1709 La Costa Meadows Drive, San Marcos, CA 92078, USA",33.104374,-117.221865
+A100090679,N00007231,"Gallegly, Elton",F4000,"1791 Erringer Road Simi Valley, CA 93065","1791 Erringer Road, Simi Valley, CA 93065, USA",34.2697136,-118.7616309
+A100090680,N00007231,"Gallegly, Elton",F4000,"1491 Duarte Circle Simi Valley CA, 93065","1491 Duarte Circle, Simi Valley, CA 93065, USA",34.265417,-118.760685
+A100090681,N00007231,"Gallegly, Elton",F4000,"12 Via Santanella Rancho Mirage, CA","12 Via Santanella, Rancho Mirage, CA 92270, USA",33.799839,-116.444032
+A100090798,N00007360,"Pelosi, Nancy",F4000,"1600 Atlas Peak Road - Real Estate Investment - Napa, CA","1600 Atlas Peak Road, Napa, CA 94558, USA",38.3487412,-122.2645283
+A100090953,N00007390,"Miller, George",F4000,"127 D St., SE, Washington D.C. 20003","127 D Street Southeast, Washington, DC 20003, USA",38.884761,-77.004786
+A100091272,N00007781,"DeFazio, Peter",F4000,53880 Pine Grove Lapine Oregon 1/2 share,"53880 Pine Grove Road, La Pine, OR 97739, USA",43.757284,-121.486807
+A100091274,N00007781,"DeFazio, Peter",F4000,36 Hempleman drive Akaroa NZ 1/4 share rental property,"36 Hempleman Drive, Akaroa 7520, New Zealand",-43.8158472,172.9536405
+A100091486,N00008619,"Rothman, Steven R",F4000,"125 Louis Street, South Hackensack, NJ (5.5% owner)","125 Louis Street, South Hackensack, NJ 07606, USA",40.8569869,-74.047648
+A100091489,N00008619,"Rothman, Steven R",F4000,"150 Louis Street, South Hackensack, NJ (16 2/3% owner)","150 Louis Street, South Hackensack, NJ 07606, USA",40.8579409,-74.04813399999999
+A100091491,N00008619,"Rothman, Steven R",F4000,"17793 Southwick Way Boca Raton, FL (1/3 owner)","17793 Southwick Way, Boca Raton, FL 33498, USA",26.412195,-80.21464
+A100091492,N00008619,"Rothman, Steven R",F4000,"250 North Street Teterboro, NJ (33% owner)","250 North Street, Teterboro, NJ 07608, USA",40.86541500000001,-74.054103
+A100091493,N00008619,"Rothman, Steven R",F4000,"30 Ruta Court, South Hackensack, NJ (33% owner)","30 Ruta Court, South Hackensack, NJ 07606, USA",40.8588625,-74.0492574
+A100091495,N00008619,"Rothman, Steven R",F4000,"40 Ruta Court, So. Hackensack, NJ (33 1/3%)","40 Ruta Court, South Hackensack, NJ 07606, USA",40.858718,-74.048852
+A100091496,N00008619,"Rothman, Steven R",F4000,"425 Victoria Terrace Ridgefield, NJ (16 2/3% owner)","425 Victoria Terrace, Ridgefield, NJ, USA",40.8323761,-74.0236647
+A100091497,N00008619,"Rothman, Steven R",F4000,"45 Ruta Court, S. Hackensack, NJ (6% owner)","45 Ruta Court, South Hackensack, NJ 07606, USA",40.858158,-74.049213
+A100091500,N00008619,"Rothman, Steven R",F4000,"550 Huyler Street, South Hackensack, NJ (16 2/3% owner)","550 Huyler Street, South Hackensack, NJ 07606, USA",40.861052,-74.04836100000001
+A100091501,N00008619,"Rothman, Steven R",F4000,"600 Hollister Road Teterboro, NJ (33 1/3%)","600 Hollister Road, Teterboro, NJ 07608, USA",40.865585,-74.054446
+A100091502,N00008619,"Rothman, Steven R",F4000,"80 Wesley Street, South Hackensack, NJ; RNN LLC (33% owner)","80 Wesley Street, South Hackensack, NJ 07606, USA",40.869967,-74.052812
+A100091643,N00009573,"Flake, Jeff",F4000,"326 West 4620 North Provo, UT 84604","326 West 4620 North, Provo, UT 84604, USA",40.295538,-111.663805
+A100092316,N00009774,"Becerra, Xavier",F4000,"1005 Mooney Drive Monterey Park, CA","1005 Mooney Drive, Monterey Park, CA 91755, USA",34.054861,-118.108961
+A100092317,N00009774,"Becerra, Xavier",F4000,"101 North Carolina Place, SE Apt. H, Washington, DC","101 North Carolina Avenue Southeast, Washington, DC 20003, USA",38.883599,-77.004986
+A100092318,N00009774,"Becerra, Xavier",F4000,"1633 Hill Drive Los Angeles, CA 90041","1633 Hill Drive, Los Angeles, CA 90041, USA",34.144626,-118.201848
+A100092495,N00009818,"Berkley, Shelley",F4000,3466 Legendary LV NV,"3466 Legendary Drive, Las Vegas, NV 89121, USA",36.122174,-115.099913
+A100092496,N00009818,"Berkley, Shelley",F4000,150 D St SE Washington DC,"150 D Street Southeast, Washington, DC 20003, USA",38.885276,-77.00397099999999
+A100092497,N00009818,"Berkley, Shelley",F4000,208 D St SE Washington DC,"208 D Street Southeast, Washington, DC 20003, USA",38.885315,-77.00298699999999
+A100092498,N00009818,"Berkley, Shelley",F4000,11932 Orense Dr LV NV,"11932 Orense Drive, Las Vegas, NV 89138, USA",36.15994999999999,-115.355487
+A100092530,N00009818,"Berkley, Shelley",A1000,2630 E. Harris Farm Rd Pahrump NV,"2630 West Harris Farm Road, Pahrump, NV 89060, USA",36.2930574,-116.0598
+A100093103,N00013799,"Forbes, J Randy",F4000,"524 Johnstown Rd. Chesapeake Va. (Office Bldg.) Last Assessed Value $1,042,000","524 Johnstown Road, Chesapeake, VA 23322, USA",36.70526,-76.243284
+A100093104,N00013799,"Forbes, J Randy",F4000,"536 Johnstown Rd. Chesapeake Va. (Residential Home) Current Assessment 196,300","Virginia, USA",37.4315734,-78.6568942
+A100093188,N00013846,"Miller, Jeff",F4000,"8012 Parker Rd. Milton, FL - Susan Hodges","8012 Parker Road, Milton, FL 32570, USA",30.674906,-86.984493
+A100093189,N00013846,"Miller, Jeff",F4000,"7890 Parker Rd., Milton, FL - William Semon","7890 Parker Road, Milton, FL 32570, USA",30.6740142,-86.9901225
+A100093190,N00013846,"Miller, Jeff",F4000,"7906 Parker Rd., Milton, FL - 2.96 acres - Keith Jones","7906 Parker Road, Milton, FL 32570, USA",30.675527,-86.98942699999999
+A100093205,N00013855,"Lynch, Stephen F",F4000,"3 Jason Terrace, South Boston, MA 02127","3 Jason Terrace, Boston, MA 02127, USA",42.331751,-71.0445952
+A100093206,N00013855,"Lynch, Stephen F",F4000,"55 G Street, South Boston, MA 02127","55 South Street, Boston, MA 02135, USA",42.3397674,-71.1577517
+A100093289,N00024809,"Wilson, Joe",F4000,"2823 Wilton Road, Springdale, SC","2823 Wilton Road, West Columbia, SC 29170, USA",33.9692447,-81.1094713
+A100093290,N00024809,"Wilson, Joe",F4000,"2827 Wilton Road, Springdale, SC","2827 Wilton Road, West Columbia, SC 29170, USA",33.9689509,-81.110396
+A100093291,N00024809,"Wilson, Joe",F4000,"99 Tally Ho Court, Sapphire, NC","99 Tally-Ho Court, Sapphire, NC 28774, USA",35.1418453,-83.0208865
+A100093447,N00024874,"Cardoza, Dennis",F4000,"5576 Zeiner Court, Atwater, CA","5576 Zeiner Court, Atwater, CA 95301, USA",37.325329,-120.587783
+A100093515,N00024978,"Cuellar, Henry",F4000,"4902 Marcella Ave 74 Laredo, TX 78040","4902 Marcella Avenue, Laredo, TX 78041, USA",27.5423006,-99.49358600000001
+A100093516,N00024978,"Cuellar, Henry",F4000,"602 Reynolds (Middle) St Laredo, TX 78040 (Previously combined with 602 Reynolds Rear St)","Laredo, TX, USA",27.5305671,-99.48032409999999
+A100093780,N00025284,"Grijalva, Raul M",F4000,"3426 S 9th Ave., Tucson, AZ","3426 South 9th Avenue, Tucson, AZ 85713, USA",32.184347,-110.971965
+A100094063,N00025495,"Barletta, Louis J",F4000,11110 Ballweg Lane,"11110 Ballweg Lane, Fort Myers, FL 33908, USA",26.506508,-81.93733
+A100094451,N00026043,"Neugebauer, Randy",F4000,"(b) 5731 90th Street, Valued at Lubbock Central Appraisal District Value","5731 90th Street, Lubbock, TX 79424, USA",33.5113709,-101.939189
+A100094503,N00026043,"Neugebauer, Randy",F4000,"(11) 224 9th Street SE, Washington, DC - Valued at Estimated Fair Market Value","224 9th Street Southeast, Washington, DC 20003, USA",38.8867814,-76.9934012
+A100094623,N00026314,"McMorris Rodgers, Cathy",F4000,1426 G St SE Washington DC,"1426 G Street Southeast, Washington, DC 20003, USA",38.881504,-76.984616
+A100094624,N00026314,"McMorris Rodgers, Cathy",F4000,3057 Hunrichs Way San Diego CA,"3057 Hunrichs Way, San Diego, CA 92117, USA",32.818655,-117.218029
+A100094655,N00026335,"Webster, Daniel",F4000,"3400 Old Winter Garden Road, Orlando","3400 Old Winter Garden Road, Orlando, FL 32805, USA",28.546964,-81.41878
+A100094672,N00026341,"Costa, Jim",F4000,"1750 S. Chateau Fresno, CA","1750 South Chateau Fresno Avenue, Fresno, CA 93706, USA",36.710553,-119.935053
+A100094673,N00026341,"Costa, Jim",F4000,"408 5th Street St. SE, Washington D.C.","408 5th Street Southeast, Washington, DC 20003, USA",38.883907,-76.999206
+A100095141,N00026627,"McHenry, Patrick",F4000,"806 Requa Road, Cherryville NC (rental property)","806 Requa Road, Cherryville, NC 28021, USA",35.389987,-81.3821059
+A100095172,N00026686,"Green, Al",F4000,"350 G Street, SW, #N208 Washington, DC","350 G Street Southwest, Washington, DC 20024, USA",38.8808081,-77.0165576
+A100095173,N00026686,"Green, Al",F4000,"7447 Cambridge, #105 Houston, TX","7447 Cambridge Street, Houston, TX 77054, USA",29.697461,-95.391706
+A100095696,N00027509,"Tipton, Scott",F4000,"702 Arbor Street Cortez, CO","702 Arbor Street, Cortez, CO 81321, USA",37.356872,-108.558609
+A100095845,N00027565,"Campbell, John",F4000,owns: 1300 Auto Mall Drive,"1300 Auto Mall Drive, Santa Ana, CA 92705, USA",33.730732,-117.840652
+A100095849,N00027565,"Campbell, John",F4000,owns: 11528 Martens River Cir,"11528 Martens River Circle, Fountain Valley, CA 92708, USA",33.7099151,-117.927833
+A100095850,N00027565,"Campbell, John",F4000,owns: 1380 S Auto Center Dr,"1380 South Auto Center Road, San Bernardino, CA 92408, USA",34.0705192,-117.3005429
+A100095903,N00027565,"Campbell, John",F4000,"owns: 3032 Wilshire Blvd. Santa Monica, CA","3032 Wilshire Boulevard, Santa Monica, CA 90403, USA",34.039448,-118.472622
+A100099953,N00027829,"Giffords, Gabrielle",F4000,117 West Armijo Tucson AZ,"117 West Armijo Street, Tucson, AZ 85701, USA",32.2100528,-110.9706102
+A100099954,N00027829,"Giffords, Gabrielle",F4000,"2370 Calypso Lane, League City, TX","2370 Calypso Lane, League City, TX 77573, USA",29.539099,-95.071623
+A100099955,N00027829,"Giffords, Gabrielle",F4000,300 West 17th St Tucson AZ,"300 West 17th Street, Tucson, AZ 85701, USA",32.2132733,-110.9731472
+A100100118,N00028139,"Hirono, Mazie K",F4000,"1122 Elm St. #204 Honolulu, HI","1122 Elm Street, Honolulu, HI 96814, USA",21.29925,-157.8458039
+A100100288,N00029026,"Tsongas, Niki",F4000,"26 Auburn St, Charlestown MA","26 Auburn Street, Charlestown, MA 02129, USA",42.3812011,-71.069405
+A100100289,N00029026,"Tsongas, Niki",F4000,"455 Shore Road, Chatham MA","455 Shore Road, Chatham, MA 02633, USA",41.6893051,-69.9524957
+A100100466,N00029147,"Harris, Andy",Y0000,"529, College Savings Plan of MD, Portfolio for College","Maryland, USA",39.0457549,-76.64127119999999
+A100100552,N00029273,"Schock, Aaron",F4000,"2414 W Augusta Dr, Peoria","2414 West Augusta Drive, Dunlap, IL 61525, USA",40.83852,-89.629644
+A100100941,N00029632,"Harper, Gregg",F4000,"3 Country Place Pearl, MS 39208","3 Country Place, Pearl, MS 39208, USA",32.2771876,-90.0774271
+A100100952,N00029649,"Speier, Jackie",F4000,"33 Park Road, #7 Burlingame, CA 94010","33 Park Road, Burlingame, CA 94010, USA",37.575192,-122.344277
+A100100953,N00029649,"Speier, Jackie",F4000,"4305 Auburn Blvd. Sacramento, CA 95814","4305 Auburn Boulevard, Sacramento, CA 95841, USA",38.645299,-121.364422
+A100100954,N00029649,"Speier, Jackie",F4000,"620 Stonegate Drive S. San Francisco, CA 94080","620 Stonegate Drive, South San Francisco, CA 94080, USA",37.6648096,-122.4246431
+A100101033,N00029662,"Posey, Bill",F4000,"1004 Barton Blvd Rockledge, FL","1004 Barton Boulevard, Rockledge, FL 32955, USA",28.331109,-80.74361999999999
+A100101034,N00029662,"Posey, Bill",F4000,"1824 S. Fiske Blvd Rockledge, FL","1824 South Fiske Boulevard, Rockledge, FL 32955, USA",28.329009,-80.742246
+A100101035,N00029662,"Posey, Bill",F4000,"1820 Huntington Ln Rockledge, FL","1820 Huntington Lane, Rockledge, FL 32955, USA",28.326849,-80.734679
+A100101036,N00029662,"Posey, Bill",F4000,"806 Mystic Dr. #310 (1/2) Cape Canaveral, FL","806 Mystic Drive, Cape Canaveral, FL 32920, USA",28.4012184,-80.59549319999999
+A100101667,N00030490,"Fudge, Marcia L",F4000,"3646 Chelton Road Shaker Heights, Ohio","3646 Chelton Road, Shaker Heights, OH 44120, USA",41.460362,-81.56756
+A100102022,N00030752,"Duncan, Jeff",F4000,"104 Hawkins Circle, Joanna, SC","Sumter National Forest, 104 Hawkins Circle, Joanna, SC 29351, USA",34.4183324,-81.80759069999999
+A100102023,N00030752,"Duncan, Jeff",F4000,"129 Pine Street, Clinton, SC","129 State Road S-30-368, Clinton, SC 29325, USA",34.460968,-81.901343
+A100102024,N00030752,"Duncan, Jeff",F4000,"130 Pine Street, Clinton, SC","130 State Road S-30-368, Clinton, SC 29325, USA",34.4577916,-81.89826529999999
+A100102025,N00030752,"Duncan, Jeff",F4000,"1313 Charlotte's Road, Clinton, SC","1313 Charlottes Road, Clinton, SC 29325, USA",34.4551481,-81.90818449999999
+A100102026,N00030752,"Duncan, Jeff",F4000,"196 Poplar Street, Clinton, SC","196 Poplar Street, Clinton, SC 29325, USA",34.459277,-81.900678
+A100102028,N00030752,"Duncan, Jeff",F4000,"2 Peachtree Street, Clinton, SC","2 Peachtree Street, Clinton, SC 29325, USA",34.455987,-81.90035999999999
+A100102030,N00030752,"Duncan, Jeff",F4000,"308 Cypress Street, Clinton, SC","308 Cypress Street, Clinton, SC 29325, USA",34.460959,-81.90174999999999
+A100102031,N00030752,"Duncan, Jeff",F4000,"829 Towne Street, Greenwood, SC","829 Towne Street, Greenwood, SC 29646, USA",34.188216,-82.149242
+A100102124,N00030801,"Guinta, Frank",F4000,"221 Crestview Rd Manchester, NH 03104","221 Crestview Road, Manchester, NH 03104, USA",43.0253346,-71.4573228
+A100102125,N00030801,"Guinta, Frank",F4000,"172 Youville St Manchester, NH 03109","172 Youville Street, Manchester, NH 03102, USA",42.9970284,-71.48289609999999
+A100102551,N00031103,"Dold, Robert",F4000,"414 Frontage Road, Northfield, IL","414 Frontage Road, Northfield, IL 60093, USA",42.1030208,-87.76917159999999
+A100102625,N00031127,"Renacci, James B",F4000,"744 Broad Street, Wadsworth, Ohio - real estate","744 Broad Street, Wadsworth, OH 44281, USA",41.025947,-81.706366
+A100104213,N00031204,"Southerland, Steve",F4000,"528 W. Baldwin Road Panama City, Florida","528 West Baldwin Road, Panama City, FL 32405, USA",30.20474,-85.66994
+A100104320,N00031265,"Hurt, Robert",F4000,10 North Main Street Chatham VA 24531,"10 Main Street, Chatham, VA 24531, USA",36.826662,-79.39863900000002
+A100104426,N00031401,"Grimm, Michael",F4000,"50 Borman Avenue Staten Island, NY 10314","50 Borman Avenue, Staten Island, NY 10314, USA",40.592901,-74.153307
+A100105420,N00031933,"Keating, William R",F4000,"271 Canton St. Stoughton, Ma. 507","271 Canton Street, Stoughton, MA 02072, USA",42.12757800000001,-71.113197
+A100105421,N00031933,"Keating, William R",F4000,"10 Briarwood Lane Bourne, Ma.","10 Briarwood Lane, Pocasset, MA 02559, USA",41.710418,-70.61651499999999
+A100105651,N00032019,"Cicilline, David N",F4000,"1297 Caraboa Ln, Port Charlotte, FL","1297 Caraboa Lane, Port Charlotte, FL 33953, USA",27.01008,-82.19594599999999
+A100105652,N00032019,"Cicilline, David N",F4000,"387 Atwell Ave, Providence, RI (50% interest)","387 Atwells Avenue, Providence, RI 02909, USA",41.824018,-71.430353
+A100105653,N00032019,"Cicilline, David N",F4000,"46 South Ridge Rd, Chilmark, MA","46 South Ridge Road, Chilmark, MA 02535, USA",41.368913,-70.704514
+A100117037,N00001811,"Smith, Lamar",F4000,"1/3 Interest in 19 Warren Street, Town of Barstable, MA","19 Warren Street, Osterville, MA 02655, USA",41.6157619,-70.37562799999999
+A100117039,N00001811,"Smith, Lamar",F4000,"1211 Summit Rd. McLean, VA 22101","1211 Summit Road, McLean, VA 22101, USA",38.9399919,-77.181381
+A100117040,N00001811,"Smith, Lamar",F4000,"315 Cleveland Court, San Antonio, TX","315 Cleveland Court, San Antonio, TX 78209, USA",29.4763463,-98.4605381
+A100118503,N00002017,"Bartlett, Roscoe G",F4000,"1115 Providence Court Frederick, MD","1115 Providence Court, Frederick, MD 21703, USA",39.4145538,-77.4481466
+A100118506,N00002017,"Bartlett, Roscoe G",F4000,"2 lots located near 228 Knoxville Rd, Knoxville, MD Street address not yet assigned","2 Knoxville Road, Brunswick, MD 21716, USA",39.3129156,-77.62699959999999
+A100118507,N00002017,"Bartlett, Roscoe G",F4000,"256 Knoxville Rd Knoxville, MD","256 Knoxville Road, Knoxville, MD 21758, USA",39.325821,-77.6620219
+A100118508,N00002017,"Bartlett, Roscoe G",F4000,"3517 Mountain Rd S Knoxville, MD","3517 South Mountain Road, Knoxville, MD 21758, USA",39.329305,-77.666837
+A100118509,N00002017,"Bartlett, Roscoe G",F4000,"3518 Mountain Rd S Knoxville, MD","3518 South Mountain Road, Knoxville, MD 21758, USA",39.330276,-77.667142
+A100118510,N00002017,"Bartlett, Roscoe G",F4000,"4219 Lime Kiln Rd Frederik, MD","4219 Lime Kiln Road, Frederick, MD 21703, USA",39.350212,-77.4270109
+A100118511,N00002017,"Bartlett, Roscoe G",F4000,"4317 Buckeystown Pike Frederick, MD","4317 Buckeystown Pike, Frederick, MD 21704, USA",39.3500213,-77.4227089
+A100118580,N00003028,"Aderholt, Robert B",F4000,"6207 30th Street North Arlington, VA 22207","6207 30th Street North, Arlington, VA 22207, USA",38.899374,-77.152992
+A100118821,N00004645,"Rehberg, Denny",F4000,"3902 Rifle Creek, Billings, MT/FMV","3902 Rifle Creek Trail, Billings, MT 59106, USA",45.813462,-108.592423
+A100119648,N00006981,"Bilbray, Brian P",F4000,"720 Caesar Road Picayune, MS","720 Ceasar Road, Picayune, MS 39466, USA",30.5458335,-89.5968522
+A100120179,N00008799,"Granger, Kay",F4000,"1616 Kenley, Fort Worth, Texas","1616 Kenley Street, Fort Worth, TX 76107, USA",32.7436171,-97.3895067
+A100120180,N00008799,"Granger, Kay",F4000,"4702 Washburn, Fort Worth, Texas","4702 Washburn Avenue, Fort Worth, TX 76107, USA",32.7434107,-97.3896336
+A100120375,N00009724,"Langevin, Jim",F4000,"14901 Park Lane Drive #101, Ft. Meyers, FL","14901 Parkcrest Boulevard, Fort Myers, FL 33912, USA",26.5430797,-81.84313399999999
+A100120376,N00009724,"Langevin, Jim",F4000,"15 Jefferson Street, Warwick, RI","15 Jefferson Street, Warwick, RI 02888, USA",41.760525,-71.39855899999999
+A100120377,N00009724,"Langevin, Jim",F4000,"17 Scott Avenue, Warwick, RI","17 Scott Avenue, Warwick, RI 02888, USA",41.7611965,-71.405418
+A100120378,N00009724,"Langevin, Jim",F4000,"25 Scott Avenue, Warwick, RI","25 Scott Avenue, Warwick, RI 02888, USA",41.7612164,-71.4056669
+A100120379,N00009724,"Langevin, Jim",F4000,"340 Shawmut Avenue, Warwick, RI","Warwick, RI, USA",41.7001009,-71.4161671
+A100120380,N00009724,"Langevin, Jim",F4000,"65 Chesterfield Street, Warwick, RI","65 Chesterfield Avenue, Warwick, RI 02889, USA",41.717483,-71.3752839
+A100120381,N00009724,"Langevin, Jim",F4000,"9 Jefferson Street, Warwick, RI","9 Jefferson Street, Warwick, RI 02888, USA",41.760785,-71.398844
+A100120626,N00025219,"Burgess, Michael",F4000,"4637 Ivanhoe Dr, Ft. Worth, Texas","4637 Ivanhoe Drive, Fort Worth, TX 76132, USA",32.671585,-97.392606
+A100126870,N00029127,"Polis, Jared",F4000,"1301 Canyon Blvd, Boulder, Co","1301 Canyon Boulevard, Boulder, CO 80302, USA",40.0165804,-105.2776577
+A100126871,N00029127,"Polis, Jared",F4000,"1827 Grant Street Unit, Denver CO","1827 Grant Street, Denver, CO 80203, USA",39.7455453,-104.9838396
+A100127555,N00030856,"Garamendi, John",F4000,7344 Gwin St Valley Spring CA,"7344 Gwin Street, Valley Springs, CA 95252, USA",38.27548,-120.76853
+A100127722,N00031124,"Hayworth, Nan",H2000,34 S. Bedford Road Assoc. LLC-- partially owns Ambulatory Surgery Center of Westchester,"Bedford Road, Las Vegas, NV 89107, USA",36.164614,-115.1973207
+A100129424,N00000659,"Lautenberg, Frank R",Y0000,132 W. 125 St. LLC,"LLC Cross Country Trail, Mattoon, IL 61938, USA",39.4148941,-88.3818206
+A100129617,N00000659,"Lautenberg, Frank R",F4000,"132 West 125 St Office Bldg. NY, NY","132 West 125th Street, New York, NY 10027, USA",40.8082615,-73.9472409
+B100137418,N00002214,"Mollohan, Alan B",F4000,"60 G St., SW, Washington, DC (rental property)","60 G Street Southwest, Washington, DC 20024, USA",38.8811762,-77.01228139999999
+B100137430,N00002214,"Mollohan, Alan B",F4000,"842 Middle Island Lot, Bald Head Island, NC","Bald Head Island, NC 28461, USA",33.8618418,-77.9944332
+B100138082,N00005455,"Berry, Marion",F4000,"408 E 3rd St. SE Washington, DC","408 3rd Street Southeast, Washington, DC 20003, USA",38.883927,-77.00170899999999
+B100138126,N00005998,"Ortiz, Solomon P",F4000,"1011 Ennis Joslin Unit 108 Corpus Christi, TX","1011 Ennis Joslin Road, Corpus Christi, TX 78412, USA",27.7015789,-97.3352849
+B100138127,N00005998,"Ortiz, Solomon P",F4000,"4601 Carmen Unit 2104 Rancho Viejo, TX","4601 Carmen Avenue #2104, Rancho Viejo, TX 78575, USA",26.0337604,-97.5573124
+B100138140,N00006023,"Doggett, Lloyd",F4000,"6734 Spicewood Springs, Travis Co. TX","6734 Spicewood Springs Road, Austin, TX 78759, USA",30.3979681,-97.7811131
+B100138200,N00006023,"Doggett, Lloyd",F4000,"1157 San Bernard St, Austin, TX","1157 San Bernard Street, Austin, TX 78702, USA",30.269289,-97.725342
+B100138299,N00006288,"Minnick, Walter Clifford",F4000,"1108 N. Hearthstone, Boise, Vacant Lot, Investment Property","1108 Hearthstone Drive, Boise, ID 83702, USA",43.656343,-116.176605
+B100139419,N00009775,"Castle, Michael N",F4000,"14 George Street, Dewey Beach, DE","George Street, Rehoboth Beach, DE 19971, USA",38.702374,-75.080086
+B100139421,N00009775,"Castle, Michael N",F4000,"4566 Parkside Drive, Kiawah Island, SC","Kiawah Island, SC, USA",32.6082373,-80.0848166
+B100139617,N00009828,"Rodriguez, Ciro D",F4000,"371 W. Harding San Antonio, TX","371 West Harding Boulevard, San Antonio, TX 78221, USA",29.352209,-98.498886
+B100139618,N00009828,"Rodriguez, Ciro D",F4000,530 1st Street SE Wash. D.C,"530 First Street Southeast, Washington, DC 20003, USA",38.882292,-77.00558300000002
+B100139678,N00024773,"Herseth, Stephanie",F4000,"532 Southview Dr. Brookings, SD primary residence","532 Southview Drive, Brookings, SD 57006, USA",44.2988184,-96.77693740000001
+B100140057,N00027515,"Klein, Ron",F4000,4345 Lincoln Way address of Real Estate: Ownership: 5%,"4345 Lincoln Way East, Massillon, OH 44646, USA",40.7916964,-81.45189289999999
+B100140470,N00027902,"Space, Zachary T",F4000,"714 N. Wooster Ave Dover, OH","714 North Wooster Avenue, Dover, OH 44622, USA",40.5264404,-81.48016129999999
+B100140749,N00029146,"Kratovil, Frank M Jr",F4000,"7901 Atlantic Ave, Ocon City, MD 21842","7901 Atlantic Avenue, Ocean City, MD 21842, USA",38.398584,-75.060565
+B100140862,N00029370,"Kosmas, Suzanne",F4000,"1302 257 M.B.W., NSB, FL","New Smyrna Beach, FL, USA",29.0258191,-80.9269984
+B100140863,N00029370,"Kosmas, Suzanne",F4000,"798 9th Ave, NSB, FL","798 9th Avenue, New Smyrna Beach, FL 32169, USA",29.022956,-80.89233200000001
+B100140864,N00029370,"Kosmas, Suzanne",F4000,"50 Oak Tree, NSB, FL","50 Oak Tree Drive, New Smyrna Beach, FL 32169, USA",28.982622,-80.8663739
+B100140866,N00029370,"Kosmas, Suzanne",F4000,"3640 S Atl Ave NSB, FL","3640 South Atlantic Avenue, New Smyrna Beach, FL 32169, USA",29.009481,-80.880023
+B100141001,N00029784,"Nye, Glenn",F4000,1471 Girard St. NW Washington DC 20009,"1471 Girard Street Northwest, Washington, DC 20009, USA",38.925546,-77.035112
+B100142326,N00031593,"Denham, Jeff",F4000,"11580 Longview Ave, Atwater, CA","11580 Longview Avenue, Atwater, CA 95301, USA",37.3532135,-120.7015762
+U050126349,N00027523,"Sires, Albio",F4000,"2182 Morris Ave, Union, NJ","2182 Morris Avenue, Union, NJ 07083, USA",40.697925,-74.278074
+C110001067,N00003280,"Wicker, Roger",F4000,"1 Bashford Lane, Alexandria, VA","Bashford Lane, Alexandria, VA 22314, USA",38.8186224,-77.044911
+D110005076,N00007017,"Issa, Darrell",F4100,2067 W Vista Way LP,"2067 North Vista Circle, Palmer, AK 99645, USA",61.62756399999999,-149.0425242
+D110005587,N00027860,"Duckworth, Tammy",F4000,"612 Haish Blvd De Kalb, IL","612 Haish Boulevard, DeKalb, IL 60115, USA",41.925528,-88.757938
+D110006208,N00030875,"Kuster, Ann Mclane",F4000,"116 Jackson Highlands Jackson, NH","Jackson Highlands Road, Jackson, NH 03846, USA",44.1556547,-71.1622124
+D110007652,N00033281,"Gabbard, Tulsi",F4000,"3331 Valley Drive Alexandria, VA, 22302","3331 Valley Drive, Alexandria, VA 22302, USA",38.8357002,-77.07971169999999
+D110007653,N00033281,"Gabbard, Tulsi",F4000,"1510 NW Ferris Avenue Lawton, OK 73507","1510 Northwest Ferris Avenue, Lawton, OK 73507, USA",34.6157309,-98.41185
+D110008001,N00033509,"McLeod, Gloria",F4000,3042 8th Avenue Sacramento CA 95817,"3042 8th Avenue, Sacramento, CA 95817, USA",38.544565,-121.474823
+D110008277,N00033631,"Meadows, Mark R",F4000,"450 N. 4th Street Highlands, NC 28741","450 North 4th Street, Highlands, NC 28741, USA",35.0547911,-83.1965945
+D110008621,N00033904,"Beatty, Joyce",F4000,1620 E. Broad St Col. OH,"1620 East Broad Street, Columbus, OH 43203, USA",39.9674757,-82.957827
+D110008622,N00033904,"Beatty, Joyce",,493 Parkwood Av. Col OH,"493 Parkwood Avenue, Columbus, OH 43203, USA",39.97738,-82.9601394
+D110009216,N00034277,"Maloney, Sean Patrick",F4000,"283 E. Hill Road Jeffersonville, NY","283 East Hill Road, Jeffersonville, NY 12748, USA",41.794315,-74.88231499999999
+D110009217,N00034277,"Maloney, Sean Patrick",F4000,"1441 Lincoln Road, #202 Miami Beach, FL","1441 Lincoln Road #202, Miami Beach, FL 33139, USA",25.790658,-80.144494
+D110009218,N00034277,"Maloney, Sean Patrick",F4000,"1214 10th Ave Neptune, NJ","1214 10th Avenue, Neptune City, NJ 07753, USA",40.20764399999999,-74.02190999999999
+D110009424,N00034884,"Enyart, William",F4000,"12 South Second Street Belleville, IL 62220","12 South 2nd Street, Belleville, IL 62220, USA",38.5131764,-89.9867546
+D110009425,N00034884,"Enyart, William",F4000,"132 West Main Street Belleville, IL 62220","132 West Main Street, Belleville, IL 62220, USA",38.513438,-89.986783
+D110009426,N00034884,"Enyart, William",F4000,"711 S. 16th Street Belleville, IL","711 South 16th Street, Belleville, IL 62220, USA",38.5121997,-90.0116735
+D110009427,N00034884,"Enyart, William",F4000,"903 E. Overton Tuscola, IL","903 East Overton Street, Tuscola, IL 61953, USA",39.8015961,-88.2757147
+D110009428,N00034884,"Enyart, William",F4000,"704 E. D Street Belleville, IL","704 East D Street, Belleville, IL 62220, USA",38.51755,-89.974817
+D110016044,N00029617,"Hagan, Kay R",F4000,1405 Latham Road,"1405 Latham Road, Greensboro, NC 27408, USA",36.092586,-79.792101
+D110019465,N00030836,"Paul, Rand",F4000,861 Castle Heights Bowling Green KY,"861 Castle Heights Road, Bowling Green, KY 42103, USA",36.9545231,-86.3368479
+D110019466,N00030836,"Paul, Rand",F4000,"1030 Highway 98 East Destin, FL","1030 U.S. 98, Destin, FL 32541, USA",30.3850762,-86.4692501
+Z110072035,N00030717,"Bera, Ami",F4000,"6749 ASHINGTON WAY ELK GROVE, CA","6749 Ashington Way, Elk Grove, CA 95758, USA",38.414682,-121.423267
+Z110071925,N00030717,"Bera, Ami",F4000,"1524 32ND ST SACRAMENTO, CA","1524 32nd Street, Sacramento, CA 95816, USA",38.5663602,-121.465939
+Z110071928,N00030717,"Bera, Ami",F4000,"2231 36th ST SACRAMENTO, CA","2231 36th Street, Sacramento, CA 95817, USA",38.556931,-121.463899
+Z110071929,N00030717,"Bera, Ami",F4000,"4640 U STREET SACRAMENTO, CA","4640 U Street, Sacramento, CA 95817, USA",38.555326,-121.451036
+Z110071930,N00030717,"Bera, Ami",F4000,"2101 39TH ST SACRAMENTO, CA","2101 39th Street, Sacramento, CA 95817, USA",38.55754659999999,-121.4591447
+Z110071931,N00030717,"Bera, Ami",F4000,"2642 43RD ST SACRAMENTO, CA","2642 43rd Street, Sacramento, CA 95817, USA",38.55136299999999,-121.457222
+C110007838,N00008619,"Rothman, Steven R",F4000,"175 Louis Street Hackensack, NJ (Partial Owner)","175 Louis Street, Hackensack, NJ 07601, USA",40.9076864,-74.0454877
+C110009245,N00013131,"Cantor, Eric",F4000,"1101 S. Arlington Ridge Rd. #1104, Arlington, VA (Rental Property)","1101 South Arlington Ridge Road, Arlington, VA 22202, USA",38.8636872,-77.0657038
+C110001699,N00009888,"Alexander, Lamar",F4000,"4 Undeveloped lots - Appraised market value - $17,414","Victoria, TX, USA",28.8052674,-97.0035982
+C110012047,N00026586,"Donnelly, Joe",F4000,"1930 Lakeshore Drive Michigan City, IN","1930 Lake Shore Drive, Michigan City, IN 46360, USA",41.7364249,-86.87631900000001
+C110010839,N00025495,"Barletta, Louis J",F4000,322 Rocky Road Hazleton PA,"322 Siller Drive, Hazleton, PA 18201, USA",40.93675959999999,-75.9717752
+C110013299,N00027565,"Campbell, John",F4000,"owns: 1330 Auto Mall Drive, Santa Ana, CA","1330 Auto Mall Drive, Santa Ana, CA 92705, USA",33.7301851,-117.8401968
+C110013300,N00027565,"Campbell, John",F4000,"owns: 1350 Auto Mall Drive, Santa Ana, CA","1350 Auto Mall Drive, Santa Ana, CA 92705, USA",33.72961799999999,-117.8403334
+C110013301,N00027565,"Campbell, John",F4000,"owns: 18801 Beach Blvd. Huntington Beach, CA","18801 Beach Boulevard, Huntington Beach, CA 92648, USA",33.689452,-117.989471
+C110013303,N00027565,"Campbell, John",F4000,"owns: 1380 S. Auto Center Dr., Anaheim, CA","1380 South Auto Center Drive, Anaheim, CA 92806, USA",33.814915,-117.8761485
+C110022536,N00029662,"Posey, Bill",F4000,"1803 Hensley Dr Rockledge, FL","1803 Hensley Drive, Rockledge, FL 32955, USA",28.329626,-80.75080799999999
+C110023032,N00029788,"Lummis, Cynthia Marie",T7200,1112 Dunn (warehouse),"Cheyenne, WY, USA",41.1399814,-104.8202462
+C110026701,N00031933,"Keating, William R",F4000,"111 Bay Rd Sharon, MA","111 Bay Road, Sharon, MA 02067, USA",42.13532,-71.1507309
+C110027296,N00032457,"Scott, Austin",F4000,"27 Oakmont Drive Tifton, GA","Tifton, GA, USA",31.4504629,-83.5084973
+C110032040,N00009922,"Reid, Harry",F4000,22.5% interest (held in part as trustee) in 2 parcels,"Utah, USA",39.3209801,-111.0937311
+C110034412,N00000226,"Tierney, John F",F4000,"1025 First St. SE #414, Washington, DC","1025 First Street Southeast, Washington, DC 20003, USA",38.877811,-77.006494
+C110034413,N00000226,"Tierney, John F",F4000,"21 Settlers Way, Salem, MA","21 Settlers Way, Salem, MA 01970, USA",42.530032,-70.881085
+C110034578,N00000515,"Welch, Peter",F4000,"131 Main Street, Burlington, VT","131 Main Street, Burlington, VT 05401, USA",44.475767,-73.213667
+C110037179,N00001971,"Cummings, Elijah E",F4000,"1830 11th St., NW, Ste 1, Washington, DC 20001","1830 11th Street Northwest, Washington, DC 20001, USA",38.9151921,-77.0272471
+C110037475,N00004874,"Gutierrez, Luis V",F4000,"535 Marina Street Rio Grande, PR","Rua Rio Grande do Sul, 535, Santa Inês - PR, 86660-000, Brazil",-22.6438028,-51.9022248
+C110041963,N00031988,"Runyan, Jon",F4000,5236 Larkin St Houston TX,"5236 Larkin Street, Houston, TX 77007, USA",29.779373,-95.415115
+C110041964,N00031988,"Runyan, Jon",F4000,5321 Darlink St Houston TX,"5321 Darling Street, Houston, TX 77007, USA",29.779637,-95.41694400000002
+Z110071922,N00030717,"Bera, Ami",F4000,"2717 P STREET SACRAMENTO, CA","2717 P Street, Sacramento, CA 95816, USA",38.567684,-121.472562
+Z110071923,N00030717,"Bera, Ami",F4000,"2536 39TH ST SACRAMENTO, CA","2536 39th Street, Sacramento, CA 95817, USA",38.55280880000001,-121.4626383
+Z110071924,N00030717,"Bera, Ami",F4000,"4601 V ST SACRAMENTO, CA","4601 V Street, Sacramento, CA 95817, USA",38.555319,-121.451952
+N090003628,N00031401,"Grimm, Michael",F4000,"50 Borman Ave (2 Family) SI, NY 10314","New York, NY, USA",40.7127837,-74.0059413
+A000874,N00002383,"Taylor, Charles H",F4000,"104 North Liberty Street, Asheville, NC","104 North Liberty Street, Asheville, NC 28801, USA",35.607026,-82.551636
+B000073,N00006811,"Millender-McDonald, Juanita",F4000,"1236 W. 64th Street, Los Angeles, CA","1236 West 64th Street, Los Angeles, CA 90044, USA",33.981179,-118.297226
+B000074,N00006811,"Millender-McDonald, Juanita",F4000,"803 N. Grandee, Compton, CA (Rental)","Compton, CA, USA",33.8958492,-118.2200712
+B000598,N00007099,"Calvert, Ken",F4000,"624 E. Grand Blvd. Corona, CA (50%)","624 East Grand Boulevard, Corona, CA 92879, USA",33.87374,-117.5593842
+B000600,N00007099,"Calvert, Ken",F4000,"1154 E. 6th Street, Corona, CA (16.5%)","1154 East 6th Street, Corona, CA 92879, USA",33.873614,-117.549337
+B000682,N00007419,"Thompson, Mike",F4000,"Ownership of 2140 Finley Road East, Finley, CA","2140 East Finley Road, Finley, CA 95435, USA",39.007088,-122.870183
+B000771,N00007507,"Radanovich, George",F4000,"Property: 3390 Ben Hur Road, Mariposa, CA (7 acres)","3390 Ben Hur Road, Mariposa, CA 95338, USA",37.378381,-119.9655172
+B000877,N00007724,"Wyden, Ron",F4000,"2393 SW Park Place #305, Portland, OR 97205","2393 Southwest Park Place, Portland, OR 97205, USA",45.5214532,-122.7001904
+B000963,N00007936,"Baird, Brian",F4000,"Apt., 508 Seward Sq., SE Washington, DC 20003","508 Seward Square Southeast, Washington, DC 20003, USA",38.886791,-76.999068
+C000210,N00002593,"Isakson, Johnny",F4000,"5074 Hampton Farms Drive, Marietta, GA 30068 home","5074 Hampton Farms Drive, Marietta, GA 30068, USA",33.954492,-84.404043
+C000263,N00002610,"Deal, Nathan",F4000,"314 11th Street NE Washington, DC 20515","314 11th Street Northeast, Washington, DC 20002, USA",38.894077,-76.991871
+C000298,N00002656,"Kingston, Jack",F4000,"5 Island Drive Savannah, GA","5 Island Drive, Savannah, GA 31406, USA",31.984122,-81.05290699999999
+C000299,N00002656,"Kingston, Jack",F4000,"105 18th Street Tybee, GA","105 18th Street, Tybee Island, GA 31328, USA",31.9897082,-80.8507748
+C000300,N00002656,"Kingston, Jack",F4000,"111 Jacquelyn Dr Savannah, GA","111 Jacquelyn Drive, Savannah, GA 31406, USA",31.990453,-81.053957
+C000627,N00003280,"Wicker, Roger",F4000,"511 Bashford Lane, Alexandria, VA","511 Bashford Lane, Alexandria, VA 22314, USA",38.819082,-77.0430389
+D000010,N00008046,"Lee, Barbara",F4000,"1250 4th Street, SW, Apt. W 400. Washington, D.C. Rental Income For Parking Space (personal residenc","1250 4th Street Southwest, Washington, DC 20024, USA",38.8751976,-77.0172765
+D000507,N00008619,"Rothman, Steven R",F4000,"250 North Street Englewood, NJ (33% Owner)","250 North Street, Teaneck, NJ 07666, USA",40.8868994,-74.022182
+D000890,N00009824,"Wu, David",F4000,"1602 SE Flavel St. Portland, OR-rental House","1602 Southeast Flavel Street, Portland, OR 97202, USA",45.4706339,-122.649696
+D001092,N00013078,"Davis, Jo Ann",F4000,"7 Red Cedar Way Newport News, VA","7 Cedar Lane, Newport News, VA 23601, USA",37.0390146,-76.4801518
+D001093,N00013078,"Davis, Jo Ann",F4000,"56 Bedford Road Newport News, VA","56 Bedford Road, Newport News, VA 23601, USA",37.066919,-76.46154
+D001094,N00013078,"Davis, Jo Ann",F4000,"386 Susan Constant Newport News, VA","386 Susan Constant Drive, Newport News, VA 23608, USA",37.141377,-76.549138
+D001096,N00013078,"Davis, Jo Ann",F4000,"102 Haverstraw Yorktown, VA","102 Haverstraw Court, Yorktown, VA 23692, USA",37.155059,-76.458345
+E000005,N00003042,"Cramer, Bud",F4000,"524 Skyline Shores Scottsboro, AL 35768","524 Skyline Shores Drive, Scottsboro, AL 35769, USA",34.5717493,-86.1054407
+E000722,N00003504,"Pryce, Deborah",F4000,601 Pennsylvania Ave NW 202,"601 Pennsylvania Avenue Northwest, Washington, DC 20004, USA",38.8933837,-77.0204528
+E000733,N00003522,"Kaptur, Marcy",F4000,"1837 Dority Rd., Toledo, OH 43615","1837 Dority Road, Toledo, OH 43615, USA",41.657824,-83.665435
+E000734,N00003522,"Kaptur, Marcy",F4000,"1846 Rivard Rd., Toledo, OH 43615","1846 Rivard Road, Toledo, OH 43615, USA",41.6580219,-83.6662758
+F000221,N00004912,"Evans, Lane",F4000,"406 S. Capitol St., SE, Washington, DC","406 South Capitol Street Southeast, Washington, DC 20003, USA",38.884782,-77.008735
+F000642,N00005645,"Hall, Ralph M",F4000,"310 E. Capital Street NW, Apt. A, Washington, DC Residence","310 East Capitol Street Northeast, Washington, DC 20003, USA",38.8898201,-77.00138419999999
+F000763,N00005998,"Ortiz, Solomon P",F4000,"2104 Lago Viejo South Rancho Viejo, TX","Lago Viejo Boulevard, Brownsville, TX 78520, USA",26.0116657,-97.5401538
+F000781,N00006023,"Doggett, Lloyd",F4000,"220 N. Mesa, El Paso, TX (1/12 interest)","220 North Mesa Street, El Paso, TX 79901, USA",31.759298,-106.487193
+F000784,N00006023,"Doggett, Lloyd",F4000,"711 N. Piedras, El Paso, TX (1/12 Interest)","711 North Piedras Street, El Paso, TX 79903, USA",31.7811396,-106.4614735
+F000786,N00006023,"Doggett, Lloyd",F4000,"1200 Baylor #401, Austin TX","1200 Baylor Street, Austin, TX 78703, USA",30.2780209,-97.7529455
+G000315,N00000267,"Capuano, Michael E",F4000,"172 Central St, Somerville, MA","172 Central Street, Somerville, MA 02145, USA",42.394003,-71.099892
+G000362,N00000275,"Frank, Barney",F4000,"1401 17th Street, NW, Washington, DC (personal residence)","1401 17th Street Northwest, Washington, DC 20036, USA",38.9089416,-77.0381756
+G000411,N00000308,"Kennedy, Edward M",Y0000,"January 27, 1926 Trusts Joseph P. Kennedy Grantor:","Hartington, Buxton, Derbyshire SK17, UK",53.140153,-1.803666
+G000507,N00000423,"Bass, Charles",F4000,"1629 21st Street, NW, Washington DC","1629 21st Street Northwest, Washington, DC 20009, USA",38.9124367,-77.0466186
+G000508,N00000423,"Bass, Charles",F4000,"1765 R Street, NW, Washington DC","1765 R Street Northwest, Washington, DC 20009, USA",38.91277090000001,-77.04135459999999
+G000648,N00000469,"Allen, Tom",F4000,245 Commercial St Portland ME 5.897% Interest In R.E.,"245 Commercial Street, Portland, ME 04101, USA",43.6548599,-70.2547199
+G000818,N00000534,"Jeffords, James M",F4000,"8 Kingsley Avenue, Rutland, VT (Dwelling/.25 acres)","8 Kingsley Avenue, Rutland, VT 05701, USA",43.61525,-72.974411
+G000819,N00000534,"Jeffords, James M",F4000,"2 Lots Poinciana, Kissimee, FL (less than 1 acre total)","Kissimmee Court, Kissimmee, FL 34759, USA",28.085804,-81.517106
+G001599,N00000699,"Menendez, Robert",F4000,"1806 West St. - Union City, NJ","1806 West Street, Union City, NJ 07087, USA",40.764269,-74.035978
+G001815,N00000834,"Saxton, Jim",F4000,"207 High Street, Mt. Holly","207 High Street, Mount Holly, NJ 08060, USA",39.997,-74.7886
+G002020,N00001020,"Kelly, Sue",F4000,101 N. Moyer MtKitzo,"101 Morgan Drive, Mount Kisco, NY 10549, USA",41.1933243,-73.7377845
+G002022,N00001020,"Kelly, Sue",F4000,10 Waterview Ct South Salem,"South Salem, NY 10590, USA",41.27286489999999,-73.55238489999999
+G002032,N00001020,"Kelly, Sue",F4000,8 Waterview Ct-South Salem,"8 Waterview Court, South Salem, NY 10590, USA",41.298355,-73.578183
+G002036,N00001020,"Kelly, Sue",F4000,90 Maple Ave. Mt Kitzo,"90 Maple Avenue, Mount Kisco, NY 10549, USA",41.206815,-73.731978
+G002172,N00001295,"Reynolds, Tom",F4000,"6200 S. Park Ave Hamburg, NY","6200 South Park Avenue, Hamburg, NY 14075, USA",42.726418,-78.82532499999999
+G002229,N00001380,"Santorum, Rick",F4000,"603 Beaver Terrace State College, PA","603 West Beaver Avenue, State College, PA 16801, USA",40.7889072,-77.8663711
+G002230,N00001380,"Santorum, Rick",F4000,"306 Beaver Plaza State College, PA","306 West Beaver Avenue, State College, PA 16801, USA",40.7915646,-77.86279580000001
+G002231,N00001380,"Santorum, Rick",F4000,"304 Beaver Plaza State College, PA","304 West Beaver Avenue, State College, PA 16801, USA",40.791604,-77.8627434
+G002258,N00001422,"Peterson, John E",F4000,"130 N. Zad St Pleasantville, PA","130 2nd Street, Pleasantville, PA 16341, USA",41.592793,-79.579509
+H000057,N00024770,"Michaud, Mike",F4000,"109 Main Street, East Millinocket, ME","109 Main Street, East Millinocket, ME 04430, USA",45.6268208,-68.5798444
+H000058,N00024770,"Michaud, Mike",F4000,"111 Main Street, East Millinocket, ME","111 Main Street, East Millinocket, ME 04430, USA",45.6269285,-68.5801977
+H000138,N00024777,"Brown-Waite, Ginny",F4000,"DC Property 408 F Street NW, and rental income","408 F Street Northwest, Washington, DC 20001, USA",38.8973254,-77.0166023
+H000139,N00024777,"Brown-Waite, Ginny",F4000,"2 Lots-Marsh Hen Drive Shallotte, NC","Marsh Hen Drive Southwest, Shallotte, NC 28470, USA",33.9368508,-78.37856719999999
+H000215,N00024866,"Bordallo, Madeleine Z",F4000,"(Jonestown) 160 Trenton Blvd, Tamuning, Guam 96912","Trenton Boulevard, Tamuning, 96913, Guam",13.4990861,144.7726071
+H000216,N00024866,"Bordallo, Madeleine Z",F4000,"(Silver Meadow) 5747 NE 61st Street Marion County Ocala, FL 34479","5747 Northeast 61st Avenue Road, Silver Springs, FL 34488, USA",29.24885,-82.05031369999999
+H000217,N00024866,"Bordallo, Madeleine Z",F4000,"(Westbury) 5500 SW 30th Avenue Marion County Ocala, FL 34474","5500 Southwest 30th Avenue, Ocala, FL 34471, USA",29.1328846,-82.1754639
+H000360,N00024931,"Renzi, Rick",F4000,"12 Los Encinos, Sonoita, AZ","12 Los Encinos, Sonoita, AZ 85637, USA",31.65920819999999,-110.6504828
+H000366,N00024931,"Renzi, Rick",F4000,"573 North Lower Elgin Road, Elgin, AZ (property is a personal residence)","573 Lower Elgin Road, Elgin, AZ 85611, USA",31.6734412,-110.5708314
+I000631,N00006546,"Wilson, Heather",F4000,"6 Unimproved Lots, Valencia Co","Valencia County, NM, USA",34.6743674,-106.6291304
+I003638,N00007087,"Lewis, Jerry",F4000,"5850 Alder Avenue Sacramento, CA 95825 An Undived 78% Interest Sold in 03-Proceeds in '04","5850 Alder Avenue, Sacramento, CA 95828, USA",38.521385,-121.374133
+I003780,N00007360,"Pelosi, Nancy",F4000,"25 Point Lobos, San Francisco, CA - Commercial Property","25 Point Lobos Avenue, San Francisco, CA 94121, USA",37.7794412,-122.5035677
+I003781,N00007360,"Pelosi, Nancy",F4000,"45 Belden Place, San Francisco, CA - Four-story commercial building","45 Belden Place, San Francisco, CA 94104, USA",37.791545,-122.4039152
+I003782,N00007360,"Pelosi, Nancy",F4000,"723 Mule Ears Court Norden, CA - Townhome","Tahoe National Forest, 723 Mule Ears Court, Truckee, CA 96161, USA",39.3054941,-120.3377216
+I003783,N00007360,"Pelosi, Nancy",F4000,"820 Sir Francis Drake Blvd., San Anselmo, CA - Commercial Property","820 Sir Francis Drake Boulevard, San Anselmo, CA 94960, USA",37.979663,-122.564259
+I004582,N00007632,"Faleomavaega, Eni F H",F4000,"511 Chandler Street Henderson, NV","511 Chandler Street, Henderson, NV 89014, USA",36.060822,-115.049361
+I004583,N00007632,"Faleomavaega, Eni F H",F4000,"913 Adobe Flat Drive Henderson, NV","913 Adobe Flat Drive, Henderson, NV 89011, USA",36.0750699,-115.013187
+I004584,N00007632,"Faleomavaega, Eni F H",F4000,"1148 South 1470 East Provo, UT","1148 South 1470 East, Provo, UT 84606, USA",40.21817,-111.633045
+J002006,N00004745,"Weller, Jerry",F4000,"115 D Street, SE #409 Washington DC","115 D Street Southeast, Washington, DC 20003, USA",38.8848774,-77.0051593
+J002007,N00004745,"Weller, Jerry",F4000,"1801 C Lisbon Road, Morris","1801 Lisbon Road, Morris, IL 60450, USA",41.3762964,-88.42991049999999
+J002008,N00004745,"Weller, Jerry",F4000,"1335 S. Prairie Avenue, Chicago","1335 South Prairie Avenue, Chicago, IL 60605, USA",41.864829,-87.62062999999999
+J002063,N00004874,"Gutierrez, Luis V",F4000,"1745 N. Hermitage Chicago, Il","1745 North Hermitage Avenue, Chicago, IL 60612, USA",41.8843807,-87.6703568
+J002064,N00004874,"Gutierrez, Luis V",F4000,"2025 W. St. Paul Chicago, Il","2025 West Street Paul Avenue, Chicago, IL 60647, USA",41.9128335,-87.6785932
+J002065,N00004874,"Gutierrez, Luis V",F4000,"429 W. Superior Chicago, Il","429 West Superior Street, Chicago, IL 60654, USA",41.8954859,-87.6398643
+J002066,N00004874,"Gutierrez, Luis V",F4000,"2146 W. Churchill Chicago, Il","2146 West Churchill Street, Chicago, IL 60647, USA",41.91485600000001,-87.6818569
+J002067,N00004874,"Gutierrez, Luis V",F4000,"1003 W. Fulton Chicago, Il","1003 West Fulton Street, Chicago, IL 60607, USA",41.88671189999999,-87.6523132
+J003351,N00005455,"Berry, Marion",A1000,"140 Main St., Gillett, AR","Main Street, Gillett, AR 72055, USA",34.1173011,-91.38719979999999
+J003367,N00005551,"Istook, Ernest J",F4000,"304 NE 23rd Norman, OK (subject to Contract for Deed)","304 23rd Avenue Northeast, Norman, OK 73071, USA",35.2219826,-97.4072291
+J004076,N00005906,"Paul, Ron",F4000,"Acreage - 9 BT Archer Oyster Creek, TX","Oyster Creek, TX, USA",29.0030239,-95.33188229999999
+J004084,N00005906,"Paul, Ron",F4000,"2422 Bluewater Hwy Surfside, TX","2422 Bluewater Highway, Surfside Beach, TX 77541, USA",28.9756569,-95.25784209999999
+K001344,N00001806,"Oberstar, James L",F4000,"1916 17th St NW Washington, DC (50%)","1916 17th Street Northwest, Washington, DC 20009, USA",38.916114,-77.0385842
+K002632,N00002167,"Goode, Virgil H Jr",F4000,"1/2 interest - 3 lots Kohler Rt. 1 Fieldale, VA 24089","3 Koehler Road, Martinsville, VA 24112, USA",36.7000419,-79.9049346
+L001255,N00011971,"Lungren, Dan",F4000,"2655 NW 66th, Okla. City, Okla","2655 Northwest 66th Street, Oklahoma City, OK 73116, USA",35.539276,-97.560622
+M000856,N00008091,"Bachus, Spencer",F4000,"4821 12th Avenue North Birmingham, Alabama","4821 12th Avenue North, Birmingham, AL 35212, USA",33.5450609,-86.762186
+M000857,N00008091,"Bachus, Spencer",F4000,"2025 16th Avenue North Birmingham, Alabama","2025 16th Avenue North, Birmingham, AL 35234, USA",33.535052,-86.81603799999999
+M000858,N00008091,"Bachus, Spencer",F4000,"3939 29th Place North Birmingham, Alabama","3939 29th Place North, Birmingham, AL 35207, USA",33.5631374,-86.8103357
+M000859,N00008091,"Bachus, Spencer",F4000,"2351 Rocky Ridge Road Birmingham, Alabama","2351 Rocky Ridge Road, Birmingham, AL 35216, USA",33.411012,-86.777565
+M002185,N00009724,"Langevin, Jim",F4000,"340 Shawmut Ave, Warwick, RI","340 Shawomet Avenue, Warwick, RI 02889, USA",41.717179,-71.362866
+M002191,N00009724,"Langevin, Jim",F4000,"170 Shannon Dr, Warwick, RI","170 Shannon Drive, Warwick, RI 02889, USA",41.7259529,-71.389658
+M002192,N00009724,"Langevin, Jim",F4000,"83 Elmdale Ave, Warwick, RI","83 Elmdale Avenue, Warwick, RI 02889, USA",41.7016848,-71.3736172
+M002193,N00009724,"Langevin, Jim",F4000,"350 Samuel Gorton, Warwick, RI","350 Samuel Gorton Avenue, Warwick, RI 02889, USA",41.7009504,-71.3764834
+M002195,N00009724,"Langevin, Jim",F4000,"1065 West Shore Rd, East Greenwich, RI","1065 Frenchtown Road, East Greenwich, RI 02818, USA",41.6260409,-71.5031906
+N000409,N00026043,"Neugebauer, Randy",F4000,"5725 86th Street, Lubbock, Texas Valued At Purchase Price 12/2002","5725 86th Street, Lubbock, TX 79424, USA",33.515325,-101.939427
+N000519,N00026080,"Barrow, John",F4000,285 S Pope St Athens GA,"285 South Pope Street, Athens, GA 30605, USA",33.953887,-83.38328899999999
+N000520,N00026080,"Barrow, John",F4000,30% 279 Meigs St Athens GA,"279 Meigs Street, Athens, GA 30601, USA",33.959192,-83.38319190000001
+N000521,N00026080,"Barrow, John",F4000,1729 S Lumpkin St Athens GA,"1729 South Lumpkin Street, Athens, GA 30606, USA",33.936745,-83.3872899
+N000522,N00026080,"Barrow, John",F4000,245 Milledge Heights Athens GA,"245 Milledge Heights, Athens, GA 30606, USA",33.933321,-83.38561899999999
+N000523,N00026080,"Barrow, John",F4000,990 Lavender Road Athens GA,"990 Lavender Road, Athens, GA 30606, USA",33.9865987,-83.46465069999999
+N000524,N00026080,"Barrow, John",F4000,205 C St SE Washington DC,"205 C Street Southeast, Washington, DC 20003, USA",38.885848,-77.003175
+N000548,N00026087,"Kuhl, John R Jr",F4000,10 Gansevoort St. Beth,"10 Gansevoort Street, Bath, NY 14810, USA",42.334454,-77.314847
+N001830,N00027281,"Drake, Thelma",F4000,3004 E. Ocean View Av.,"3004 East Ocean View Avenue, Norfolk, VA 23518, USA",36.933687,-76.205045
+N001831,N00027281,"Drake, Thelma",F4000,2143 E. Ocean View Av.,"2143 East Ocean View Avenue, Norfolk, VA 23518, USA",36.935243,-76.21474300000001
+O002105,N00000964,"Rangel, Charles B",F4000,"301 174th St #2217 Punta Cana, D.R.","301 174th Street, Sunny Isles Beach, FL 33160, USA",25.9373049,-80.12982099999999
+P000516,N00009922,"Reid, Harry",F4000,22.5% interest (held in part as trustee) in 2 parcels in Iron Co. UT.,"Iron County, UT, USA",37.7854715,-113.1918021
+P001277,N00012539,"Kirk, Mark",F4000,3292 Mt. Vernon Ave Alex. VA,"3292 Mount Vernon Avenue, Alexandria, VA 22305, USA",38.834733,-77.060458
+P003612,N00024851,"Feeney, Tom",F4000,"12063 Gray Birch Circle Orlando, FL","12063 Gray Birch Circle, Orlando, FL 32832, USA",28.3957067,-81.1761999
+P003849,N00025054,"Musgrave, Marilyn",F4000,"Real Estate - 24867 3rd St., Galeton, CO 80622","24867 3rd Street, Galeton, CO 80622, USA",40.520303,-104.584756
+P004040,N00025337,"Diaz-Balart, Mario",F4000,"16558 NE 26 Ave #5C N. Miami Beach, Fl. 33160","16558 Northeast 26th Avenue, North Miami Beach, FL 33160, USA",25.929754,-80.146232
+S040000076,N00005928,"Lampson, Nick",F4000,1038 Parkmeadow,"1038 Park Meadow Drive, Beaumont, TX 77706, USA",30.0852815,-94.1911567
+S040000077,N00005928,"Lampson, Nick",F4000,7090 Prutzman # 24,"7090 Prutzman Road, Beaumont, TX 77706, USA",30.07763599999999,-94.178009
+S040000951,N00004330,"Kleczka, Jerry",F4000,"3765 Sierra Dr, Merritt Island Fl (Rental Property)","3765 Sierra Drive, Merritt Island, FL 32953, USA",28.42184,-80.710263
+S040001204,N00008038,"John, Chris",F4000,1220 Hwy 90,"1220 Iota-Maxie Highway, Iota, LA 70543, USA",30.3194156,-92.4810888
+S040001205,N00008038,"John, Chris",F4000,1224 Hwy 90,"1224 Iota-Maxie Highway, Iota, LA 70543, USA",30.3194156,-92.4810888
+S040001207,N00008038,"John, Chris",F4000,1108 11th St.,"1108 West 11th Street, Crowley, LA 70526, USA",30.2153861,-92.3873978
+S040001445,N00006202,"Campbell, Ben Nighthorse",F4000,"520 2nd St. Durango, CO","520 East 2nd Street, Durango, CO 81301, USA",37.2646293,-107.8773704
+S040001446,N00006202,"Campbell, Ben Nighthorse",F4000,"541 Cr #541 Ignacio, CO","Ignacio, CO 81137, USA",37.1150037,-107.633113
+S040001449,N00006202,"Campbell, Ben Nighthorse",F4000,"556 2nd Ave. Durango, CO","556 East 2nd Avenue, Durango, CO 81301, USA",37.269368,-107.880196
+S040001453,N00006202,"Campbell, Ben Nighthorse",F4000,"245 Goddard Ave, Ignacio, CO","245 Goddard Avenue, Ignacio, CO 81137, USA",37.1189329,-107.6333066
+S040001761,N00009828,"Rodriguez, Ciro D",F4000,363 Harding,"363 Harding Place, San Antonio, TX 78203, USA",29.4128393,-98.4578258
+S040002545,N00007581,"Ose, Doug",F4000,"2250 University Ave, Sacramento","2250 University Avenue, Sacramento, CA 95825, USA",38.567569,-121.405357
+A080062504,N00001811,"Smith, Lamar",F4000,"425 Soledad San Antonio, TX","425 Soledad Street, San Antonio, TX 78205, USA",29.42896429999999,-98.49309029999999
+C000725,N00001380,"Santorum, Rick",F4000,610 Beaver Terrace,"610 West Beaver Avenue, State College, PA 16801, USA",40.7886769,-77.8666246
+C000726,N00001380,"Santorum, Rick",F4000,1010 Beaver Terrace,"1010 West Beaver Avenue, State College, PA 16801, USA",40.7851431,-77.87112549999999
+E000030,N00002214,"Mollohan, Alan B",F4000,6 Peppervine Trail,"6 Peppervine Trail, Bald Head Island, NC 28461, USA",33.852798,-77.98805
+E000034,N00002214,"Mollohan, Alan B",F4000,15 Horsemint Trail,"15 Horsemint Trail, Bald Head Island, NC 28461, USA",33.8662033,-78.00485599999999
+E000256,N00002269,"Etheridge, Bob",F4000,1108 Mamers-Summerville Rd,"Summerville Mamers Road, Lillington, NC 27546, USA",35.397874,-78.83245099999999
+E000929,N00002610,"Deal, Nathan",F4000,375 Log Cabin Road,"375 Log Cabin Road, Demorest, GA 30535, USA",34.59831399999999,-83.638143
+E001147,N00002511,"McKinney, Cynthia A",F4000,430 M Street,"430 M Street Southeast, Washington, DC 20003, USA",38.8765464,-76.9998787
+F000551,N00003042,"Cramer, Bud",F4000,3209 Cove Lake Road,"3209 Cove Lake Road, Owens Cross Roads, AL 35763, USA",34.673348,-86.45502499999999
+G001138,N00004403,"Kind, Ron",F4000,213 Pearl Street,"213 Pearl Street, La Crosse, WI 54601, USA",43.812388,-91.25387700000002
+G001156,N00004403,"Kind, Ron",F4000,5 Buckhotz Road,"Ettrick, WI 54627, USA",44.1682926,-91.26904429999999
+G001753,N00004745,"Weller, Jerry",F4000,1250 Andrea Court,"1250 Andrea Court, Morris, IL 60450, USA",41.368422,-88.448897
+G001954,N00004905,"Manzullo, Don",F4000,400 Wash St,"400 East Washington Street, Oregon, IL 61061, USA",42.01436899999999,-89.3198991
+G003060,N00005998,"Ortiz, Solomon P",F4000,800 Balboa Rd,"800 Balboa Avenue, Rancho Viejo, TX 78575, USA",26.0363313,-97.55259579999999
+G003953,N00013846,"Miller, Jeff",F4000,7953 Malone Rd,"7953 Malone Road, Milton, FL 32570, USA",30.6782,-86.98635399999999
+G003962,N00013846,"Miller, Jeff",F4000,7954 Parker Rd Lot 27 Garrison,"7954 Parker Road, Milton, FL 32570, USA",30.675129,-86.987464
+G004273,N00024777,"Brown-Waite, Ginny",F4000,826 L Street NE,"826 L Street Northeast, Washington, DC 20002, USA",38.90392,-76.993943
+G004433,N00024851,"Feeney, Tom",F4000,8600 Ridgewood Ave #2308,"8600 Ridgewood Avenue, Cape Canaveral, FL 32920, USA",28.3962295,-80.59614429999999
+G004684,N00024882,"Harris, Katherine",F4000,1540 Northgate Blvd,"1540 Northgate Boulevard, Sarasota, FL 34234, USA",27.373152,-82.539552
+G005083,N00025284,"Grijalva, Raul M",F4000,10003 E Country Shadows Dr,"10003 East Country Shadows Drive, Tucson, AZ 85748, USA",32.192876,-110.779195
+H001040,N00026080,"Barrow, John",F4000,255 Milledge Heights,"255 Milledge Heights, Athens, GA 30606, USA",33.933028,-83.38590099999999
+H001494,N00026627,"McHenry, Patrick",F4000,4211 Pete Brown Rd,"4211 Pete Brown Road, Charlotte, NC 28269, USA",35.32095,-80.82171
+H001974,N00027060,"Higgins, Brian M",F4000,33 Hollywood Avenue,"33 Hollywood Avenue, Buffalo, NY 14220, USA",42.838779,-78.813571
+i001922,N00008091,"Bachus, Spencer",F4000,3937 28th Place North,"3937 28th Place North, Birmingham, AL 35207, USA",33.562992,-86.81692000000001
+i002447,N00009570,"Davis, Artur",F4000,H & R Block Option One Mortagage,"6030 Woodrun Court, Montgomery, AL 36117, USA",32.348071,-86.203081
+i005727,N00006811,"Millender-McDonald, Juanita",F4000,Residental Property,"1101 East Marshall Place, Long Beach, CA 90807, USA",33.83165,-118.178672
+i007897,N00007382,"Lantos, Tom",F4000,4596 Perry Street,"4596 Perry Street, Denver, CO 80212, USA",39.78005599999999,-105.038944
+i007898,N00007382,"Lantos, Tom",F4000,35 River Walk Way,"UMASS Lowell, Riverwalk Way, Lowell, MA 01854, USA",42.6527004,-71.3165509
+i008983,N00009618,"Putnam, Adam H",F4000,"ROOM IN 21 7TH ST NE WASHINGTON, D.C.","21 7th Street Northeast, Washington, DC 20002, USA",38.890603,-76.99589
+A080044211,N00024809,"Wilson, Joe",F4000,"2827 Wilson Road, Springdale, SC","2827 Wilson Cemetery Road, Springdale, AR 72764, USA",36.208701,-94.0841994
+N090001120,N00030752,"Duncan, Jeff",F4000,"829 Tocine St., Greenwood SC","Greenwood, SC, USA",34.1954001,-82.1617883
+Z004177,N00006692,"Boxer, Barbara",F4000,305 C Street,"305 C Street Northeast, Washington, DC 20002, USA",38.8935659,-77.0018537
+A080065238,N00003132,"Cooper, Jim",F4000,"2319 Woodmont Blvd, Nashville, TN (vacant lot)","2319 Woodmont Boulevard, Nashville, TN 37215, USA",36.113929,-86.81951699999999
+A060000769,N00003280,"Wicker, Roger",F4000,1001 Valley Road,"1001 Valley Road, Tupelo, MS 38804, USA",34.2782408,-88.71716169999999
+A060000772,N00003280,"Wicker, Roger",F4000,710 North Gloster,"710 North Gloster Street, Tupelo, MS 38804, USA",34.2670929,-88.7155418
+B060000059,N00002214,"Mollohan, Alan B",F4000,"725 Mt. Vernon Ave., Fairmont, WV (rental property)","725 Mount Vernon Avenue, Fairmont, WV 26554, USA",39.4776424,-80.15532879999999
+B060000823,N00004745,"Weller, Jerry",F4000,"19806 South Wolf Road, Mokena, Illinois Unit 301","19806 Wolf Road, Mokena, IL 60448, USA",41.529234,-87.89001549999999
+B060001104,N00004391,"Green, Mark",F4000,1790 7th St Green Bay,"1790 7th Street, Green Bay, WI 54304, USA",44.5218323,-88.07697650000001
+C060004600,N00005998,"Ortiz, Solomon P",F4000,649 Mcclendon St Corpus,"649 Mcclendon Street, Corpus Christi, TX 78404, USA",27.756654,-97.394914
+D060006686,N00027890,"Arcuri, Michael",F4000,1 Hopper Street,"1 Hopper Street, Utica, NY 13501, USA",43.099229,-75.234128
+D060006818,N00027594,"Murphy, Patrick J",F4000,"326 Queen Street (Rental) Phila, PA 19147","326 Queen Street, Philadelphia, PA 19147, USA",39.937232,-75.14949899999999
+F060003214,N00013846,"Miller, Jeff",F4000,1/2 151 E. Hathaway Ave,"151 East Hathaway Avenue, Bronson, FL 32621, USA",29.446415,-82.63911700000001
+F060003728,N00025219,"Burgess, Michael",F4000,1 Acres 1831 Crow St Denton Texas,"1831 Crow Street, Denton, TX 76201, USA",33.220881,-97.153002
+F060004328,N00026080,"Barrow, John",F4000,706 East 49th St,"706 East 49th Street, Savannah, GA 31405, USA",32.04428,-81.08845099999999
+H060000198,N00001380,"Santorum, Rick",F4000,604 Beaver Terrace,"604 West Beaver Avenue, State College, PA 16801, USA",40.7888559,-77.8663862
+H060002983,N00009957,"Allen, George",F4000,Massanutten- 2 Lots/undeveloped,"Massanutten, VA, USA",38.4095701,-78.7378004
+A080069924,N00006008,"Hinojosa, Ruben",F4000,"342 S. Texas Ave. Mercedes, TX Ruben's Rental Building","342 South Texas Avenue, Mercedes, TX 78570, USA",26.1486969,-97.91294239999999
+A080072494,N00009573,"Flake, Jeff",F4000,"3352 N Alpine Vista Way, Lehi, Utah 84043","3352 Alpine Vista Way, Lehi, UT 84043, USA",40.430243,-111.828222
+A080070352,N00006288,"Minnick, Walter Clifford",F4000,"1094 Hearthstone Drive, Boise, Idaho","1094 Hearthstone Drive, Boise, ID 83702, USA",43.656242,-116.176925
+A080071447,N00006981,"Bilbray, Brian P",F4000,"19 raleigh st Helena, MT","19 South Raleigh Street, Helena, MT 59601, USA",46.583865,-112.027566
+A080071551,N00007151,"Rohrabacher, Dana",F4000,"163 D Street, S.E. Washington, DC","163 D Street Southeast, Washington, DC 20003, USA",38.884859,-77.003886
+A080071577,N00007231,"Gallegly, Elton",F4000,"1351 Cherry Simi Valley, CA 93065","1351 Cherry Avenue, Simi Valley, CA 93065, USA",34.263549,-118.752009
+A080072034,N00007632,"Faleomavaega, Eni F H",F4000,"929 Alta Oaks Drive, Henderson, NV","929 Alta Oaks Drive, Henderson, NV 89014, USA",36.072475,-115.056417
+A080072297,N00007936,"Baird, Brian",F4000,82 Salmon Beach Tacoma Washington,"82 Salmon Beach Road, Tacoma, WA 98407, USA",47.29661050000001,-122.5301246
+A080073578,N00009828,"Rodriguez, Ciro D",F4000,830 1st. Street S.E. Wash. D.C.,"830 First Street Southeast, Washington, DC 20003, USA",38.8792737,-77.0058549
+B070009986,N00003042,"Cramer, Bud",F4000,"527 East Beach Boulevard, #802, Gulf Shores, Alabama","527 East Beach Boulevard, Gulf Shores, AL 36542, USA",30.249449,-87.675702
+B070010327,N00002593,"Isakson, Johnny",F4000,12 acres 3832 Brandon Mill Rd Rabun Cty Ga real estate,"Chattahoochee National Forest, 3832 Brandon Mill Road, Lakemont, GA 30552, USA",34.7598081,-83.4573526
+B070016943,N00006981,"Bilbray, Brian P",F4000,"760 Caesar Rd, Picayune, MS","760 Ceasar Road, Picayune, MS 39466, USA",30.54584149999999,-89.596846
+B070033574,N00013846,"Miller, Jeff",F4000,"6628 Roeville Rd., Milton, FL, 1/2 Interest, 9.4 acrest- Luther Peaden","6628 Roeville Road, Milton, FL 32570, USA",30.675749,-86.99207500000001
+B070033829,N00024773,"Herseth, Stephanie",F4000,"500 Miller Drive Marshall, TX","500 Miller Drive, Marshall, TX 75672, USA",32.5361279,-94.32792979999999
+B070036246,N00026627,"McHenry, Patrick",F4000,"5524 Union Rd., Gastonia NC (10% ownership)","5524 Union Road, Gastonia, NC 28056, USA",35.182474,-81.13802799999999
+B070036247,N00026627,"McHenry, Patrick",F4000,"109 W. 8th., Gastonia NC (10% ownership)","109 West 8th Avenue, Gastonia, NC 28054, USA",35.251128,-81.1815869
+B070036249,N00026627,"McHenry, Patrick",F4000,"215 Robinson Rd., Gastonia NC (50% ownership)","215 Robinson Road, Gastonia, NC 28056, USA",35.206295,-81.16654
+B070036250,N00026627,"McHenry, Patrick",F4000,"621 W. Garrison Blvd., Gastonia NC (50% ownership)","621 West Garrison Boulevard, Gastonia, NC 28052, USA",35.253405,-81.192098
+C070001573,N00002492,"Spratt, John M Jr",F4000,"19 N. Congress Street, York, SC","19 North Congress Street, York, SC 29745, USA",34.9946332,-81.2416492
+C070001574,N00002492,"Spratt, John M Jr",F4000,"233 Kings Mountain Street, York, SC","233 Kings Mountain Street, York, SC 29745, USA",35.003945,-81.24072319999999
+H070002272,N00029370,"Kosmas, Suzanne",F4000,"1400 Edison St., Arl., VA 25%","1400 North Edison Street, Arlington, VA 22205, USA",38.886334,-77.125034
+H070003131,N00029662,"Posey, Bill",F4000,"2368 Tink Drive Tallahassee, FL","Tallahassee, FL, USA",30.4382559,-84.28073289999999
+H070003215,N00029736,"Thompson, Glenn",F4000,"606 Walnut St, Howard, PA","606 Walnut Street, Howard, PA 16841, USA",41.0057897,-77.64312199999999
+H070003319,N00029838,"Bright, Bobby Neal Sr",F4000,"141 Cox Street Auburn, AL","141 Cox Street, Auburn, AL 36832, USA",32.607841,-85.489392
+H070003320,N00029838,"Bright, Bobby Neal Sr",F4000,"307 Whetstone Dr. Montgomery, AL","307 Whetstone Drive, Montgomery, AL 36109, USA",32.380773,-86.26177299999999
+H070003321,N00029838,"Bright, Bobby Neal Sr",F4000,"626 Ann St. Montgomery, AL","626 Ann Street, Montgomery, AL 36107, USA",32.373332,-86.271368
+H070003323,N00029838,"Bright, Bobby Neal Sr",F4000,"9716 Timbermill Ct, Montgomery, AL","9716 Timbermill Court, Montgomery, AL 36117, USA",32.354297,-86.14746
+H070004012,N00030245,"Cassidy, William",F4000,4051 Broussard Baton Rouge LA,"4051 Broussard Street, Baton Rouge, LA 70808, USA",30.4364074,-91.1475517
+H070004013,N00030245,"Cassidy, William",F4000,5545 Riverbend Baton Rouge LA,"5545 Riverbend Boulevard, Baton Rouge, LA 70820, USA",30.38519999999999,-91.196513
+A080075474,N00013846,"Miller, Jeff",F4000,"7989 Malone Rd., Milton, FL 6 acres- Mark Wolverton","7989 Malone Road, Milton, FL 32570, USA",30.679118,-86.984965
+A080075609,N00024759,"Rogers, Mike",F4000,123 E 13th St Anniston,"123 East 13th Street, Anniston, AL 36201, USA",33.6613,-85.8274
+A080052299,N00013799,"Forbes, J Randy",F4000,"1391 Duck Rd Dare Co. N.C. (Residential Home)(Assessed value $466,980)","1391 Duck Road, Kitty Hawk, NC 27949, USA",36.20288439999999,-75.7653004
+A080088234,N00029285,"Olson, Peter Graham",F4000,"Sale of 8203 Strong Spring Court, Annandale, VA","8203 Strong Spring Court, Annandale, VA 22003, USA",38.822087,-77.227356
+A080089048,N00029736,"Thompson, Glenn",F4000,"107 Serge Street Milesburg, Pennsylvania (Property)","107 Serge Street, Bellefonte, PA 16823, USA",40.9423493,-77.79984189999999
+A080089999,N00029662,"Posey, Bill",F4000,"2368 Tina Dr Tallahassee, FL","2368 Tina Drive, Tallahassee, FL 32301, USA",30.435034,-84.242211
+A080090228,N00029692,"Childers, Travis W",F4000,"2 lots, Pickwick Lake, Tishomingo County, MS","Tishomingo County, MS, USA",34.7615024,-88.24611829999999
+B080093075,N00000766,"Ferguson, Mike",F4000,"13 The Arbors At Murray Hill, New Providence (Rental Property)","13 The Arbors, New Providence, NJ 07974, USA",40.700135,-74.401057
+B080093899,N00002807,"Weldon, Dave",F4000,"8361 Mineral Springs Drive Manassas, VA 20112","8361 Mineral Springs Drive, Manassas, VA 20112, USA",38.72672,-77.451487
+L070096722,N00006546,"Wilson, Heather",F4000,"931 Player Loop Rio Rancho, NM","931 Player Loop Southeast, Rio Rancho, NM 87124, USA",35.241967,-106.681962
+A090100012,N00001811,"Smith, Lamar",F4000,"6800 Fleetwood Rd Unit 513, McLean, VA","6800 Fleetwood Road #513, McLean, VA 22101, USA",38.9387018,-77.17860309999999
+A090113059,N00009724,"Langevin, Jim",F4000,"1300 13th Street NW #302, Washington, DC","1300 13th Street Northwest, Washington, DC 20005, USA",38.9074999,-77.0299017
+A090113828,N00009818,"Berkley, Shelley",F4000,11234 Revelry Ln LV NV,"11234 Revelry Lane, Las Vegas, NV 89138, USA",36.177525,-115.341989
+A090113829,N00009818,"Berkley, Shelley",F4000,11628 Aruba Beach LV NV,"11628 West Aruba Beach Avenue, Las Vegas, NV 89138, USA",36.172061,-115.35058
+A090113830,N00009818,"Berkley, Shelley",F4000,3964 Bella Palermo Way LV NV,"3964 Bella Palermo Way, Las Vegas, NV 89141, USA",35.992951,-115.19193
+A090113831,N00009818,"Berkley, Shelley",F4000,546 Poplar Leaf LV NV,"546 Poplar Leaf Street, Las Vegas, NV 89144, USA",36.168942,-115.334795
+A090113832,N00009818,"Berkley, Shelley",F4000,11829 Ampucia LV NV,"11829 Ampucia Court, Las Vegas, NV 89138, USA",36.159899,-115.3535317
+A090113833,N00009818,"Berkley, Shelley",F4000,489 Melrose Heights Henderson NV,"489 Melrose Heights Street, Henderson, NV 89052, USA",36.0107519,-115.085578
+A090113834,N00009818,"Berkley, Shelley",F4000,7032 Azure Beach LV NV,"7032 Azure Beach Street, Las Vegas, NV 89148, USA",36.0603539,-115.294919
+A090121565,N00029370,"Kosmas, Suzanne",F4000,"198 9th Ave, NSB, FL 32169","198 9th Street, New Smyrna Beach, FL 32168, USA",29.0060283,-80.91407880000001
+A090121874,N00029662,"Posey, Bill",F4000,"806 Mystic Dr, #310 Cape Canaveral, FL","806 Mystic Drive #310, Cape Canaveral, FL 32920, USA",28.4012184,-80.59549319999999
+A090122086,N00029692,"Childers, Travis W",F4000,"304 West Church St, Booneville, MS","304 West Church Street, Booneville, MS 38829, USA",34.6561274,-88.56353089999999
+A090122089,N00029692,"Childers, Travis W",F4000,4 lots,"Tishomingo County Tourism, 1001 Battleground Drive, Iuka, MS 38852, USA",34.8055719,-88.2020455
+A090125921,N00000616,"Lieberman, Joe",F4000,250 West 57th Street Associates LLC,"West 57th Street, Davenport, IA 52806, USA",41.5787529,-90.5942372
+A090126756,N00002593,"Isakson, Johnny",F4000,807 University Towers condo Athens GA,"Athens, GA, USA",33.9519347,-83.357567
+A090134422,N00006932,"Dreier, David",F4000,"52 Mayfair, Riverside County, CA residence","52 Mayfair Drive, Rancho Mirage, CA 92270, USA",33.769218,-116.433823
+A090134423,N00006932,"Dreier, David",F4000,"6344 Ward Parkway, KC, MO house","6344 Ward Parkway, Kansas City, MO 64113, USA",39.012856,-94.6033549
+B090147880,N00029917,"Griffith, Parker",F4000,"Real Estate 101 Lowe Avenue Huntsville, AL","101 Lowe Avenue Southeast, Huntsville, AL 35801, USA",34.7250087,-86.5813917
+M080133242,N99999966,"Hadley, Stephen J",F4000,"1441 Main Street, Franklin Street Properties (real estate limited partnership in office property)","1441 Main Street, Franklin, LA 70538, USA",29.8012257,-91.5006143
+N090000335,N00026722,"Canseco, Francisco",F4000,19 Jackson Court,"19 Jackson Court, San Antonio, TX 78230, USA",29.543204,-98.55523799999999
+N090000563,N00030184,"Richmond, Cedric L",F4000,"50% 4809 Eastview Dr. New Orleans, LA 70126","4809 Eastview Drive, New Orleans, LA 70126, USA",30.021378,-89.99242699999999
+N090001557,N00030967,"Duffy, Sean P",F4000,6464 McCarry Lake Rd Iron River WI,"McCarry Lake Road, Iron River, WI 54847, USA",46.5154983,-91.3701273
+N090003373,N00031128,"Gibbs, Bob",F4000,13769 Tr 473 Lakeville OH,"13769 TR 473, Lakeville, OH 44638, USA",40.629881,-82.11684799999999
+N090000796,N00030645,"Ross, Dennis",F4000,3308 Cleveland Heights Lakeland FL,"3308 Cleveland Heights Boulevard, Lakeland, FL 33803, USA",28.003531,-81.948279
+A120010037,N00005329,"Nelson, Ben",F4000,Residential/Commercial Lot,"West Ferozshah Residential Area Road, Chittagong, Bangladesh",22.3646852,91.78332429999999
+B120028321,N00009724,"Langevin, Jim",F4000,"14901 Park Lane Drive #101, Ft Meyers, FL","14901 Parkcrest Boulevard #101, Fort Myers, FL 33912, USA",26.5430797,-81.84313399999999
+B120031328,N00026686,"Green, Al",F4000,"7447 Cambridge, #105 Houston, TX 77054","7447 Cambridge Street #105, Houston, TX 77054, USA",29.697461,-95.391706
+B120031329,N00026686,"Green, Al",F4000,"7447 Cambridge, #107 Houston, TX 77054","7447 Cambridge Street #107, Houston, TX 77054, USA",29.697461,-95.391706
+B120031330,N00026686,"Green, Al",F4000,"7447 Cambridge, #124 Houston, TX 77054","7447 Cambridge Street #124, Houston, TX 77054, USA",29.697461,-95.391706
+B120032224,N00027565,"Campbell, John",F4000,"owns: 9581 Irvine Center Drive, Irvine, CA","9581 Irvine Center Drive, Irvine, CA 92618, USA",33.6344819,-117.7333309
+B120033942,N00029112,"Richardson, Laura",F4000,"717 East Vernon St Long Beach, CA 90806","717 East Vernon Street, Long Beach, CA 90806, USA",33.80371,-118.183187
+B120034587,N00029662,"Posey, Bill",F4000,"1004 Boston Blvd Rockledge, FL","Boston Way, Rockledge, FL 32955, USA",28.2226677,-80.6712015
+B120035420,N00030676,"Long, Billy",F4000,"32 Martin Lane, Dallas County, MO","32 Martin Lane, Fair Grove, MO 65648, USA",37.4307829,-93.1444317
+B120035585,N00030717,"Bera, Ami",F4000,"6749 Ashington Way, Elle Gac CA","California, USA",36.778261,-119.4179324
+B120035847,N00030788,"Graves, Tom",F4000,"1280 West Peachtree Atlanta, GA","1280 West, Atlanta, GA 30309, USA",33.789,-84.38799999999999
+B120035918,N00030856,"Garamendi, John",F4000,7400 Gwin St Valley Springs CA,"7400 Gwin Street, Valley Springs, CA 95252, USA",38.276384,-120.76739
+B120041054,N00034277,"Maloney, Sean Patrick",F4000,"1441 Lincoln Road, Miami Beach, FL","1441 Lincoln Road, Miami Beach, FL 33139, USA",25.790658,-80.144494
+B120042759,N00009774,"Becerra, Xavier",F4000,"101 North Carolina Place, SE Apt. H Washington, DC","101 Carolina Street, Bellingham, WA 98225, USA",48.7603974,-122.4750528
+B120043108,N00025495,"Barletta, Louis J",F4000,"1110 Balweg Lane, Ft Myers FL","Ballweg Lane, Fort Myers, FL 33908, USA",26.506357,-81.937004
+B120043682,N00031103,"Dold, Robert",Y0000,"2711 Douglas Avenue, Racine Wisconsin","2711 Douglas Avenue, Racine, WI 53402, USA",42.753344,-87.798114
+C120009758,N00032457,"Scott, Austin",F4000,"621 McLendon Street Ashburn, GA","621 McLendon Street, Ashburn, GA 31714, USA",31.712896,-83.653639
+C120010269,N00033101,"Schneider, Brad",F4000,Belgravia 600 Lake Shore Dr (Real Estate),"Lake Road, Kimberley, 8301, South Africa",-28.7377923,24.7414138
+C120011059,N00033541,"Gallego, Pete",F4000,"1110 E Holland Alpine, TX","1110 East Holland Avenue, Alpine, TX 79830, USA",30.360467,-103.65088
+C120001846,N00008799,"Granger, Kay",F4000,"4704 Washburn, Fort Worth, TX","4704 Washburn Avenue, Fort Worth, TX 76107, USA",32.7434134,-97.3896896
+C120001847,N00008799,"Granger, Kay",F4000,"4706 Washburn, Fort Worth, TX","4706 Washburn Avenue, Fort Worth, TX 76107, USA",32.743628,-97.389764
+C120001848,N00008799,"Granger, Kay",F4000,"4708 Washburn, Fort Worth, TX","4708 Washburn Avenue, Fort Worth, TX 76107, USA",32.7434129,-97.3900062
+C120000237,N00001024,"Lowey, Nita M",F4000,"649 C Street SE, Apt 209","649 South Saint Southeast #209, Warren, OH 44483, USA",41.2341785,-80.8094201
+C120001961,N00013799,"Forbes, J Randy",F4000,"536 Johnstown Rd., Chesapeake VA rental home","Chesapeake, VA, USA",36.7682088,-76.2874927
+C120016407,N00031685,"Blumenthal, Richard",F4000,"681 Fifth Avenue - New York, NY","681 5th Avenue, New York, NY 10022, USA",40.7606196,-73.9751685
+C120016408,N00031685,"Blumenthal, Richard",F4000,"220 Park Avenue South - New York, NY","220 Park Avenue South, New York, NY 10003, USA",40.73717480000001,-73.98892529999999
+D120099853,N00033281,"Gabbard, Tulsi",F4000,1570 NW Ferris Ave Lawton OK 73507,"1570 Northwest Ferris Avenue, Lawton, OK 73507, USA",34.6160271,-98.4124697
+N090004710,N00031988,"Runyan, Jon",,5326 Larkin St. Houston TX,"5326 Larkin Street, Houston, TX 77007, USA",29.77934,-95.417097
+B120041439,N00035007,"Joyce, David P",,30339 Diamond Pkwy St 105 Cleveland Ohio,"Diamond Avenue, Cleveland, OH 44104, USA",41.4836643,-81.6495533
