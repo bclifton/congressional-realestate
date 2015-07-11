@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  font: 16px 'Roboto', Helvetica, sans-serif;
+  font: 16px 'Libre Baskerville', Helvetica, sans-serif;
   background-color: #e8e8e8;
 }
 
@@ -19,23 +19,34 @@ h1 {
 
 h2 {
   margin: 0px 0px 20px 0px;
-  font-family: 'Roboto';
-  font-weight: normal;
+  font-family: 'Libre Baskerville';
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 1.25;
 }
 
 h4 {
   font-size: 18px;
+  font-family: 'Source Sans Pro';
+  font-weight: bold;
+  margin-top: 1px;
+  margin-bottom: 7px;
+}
+
+hr {
+  margin-top: 0px;
+  margin-bottom: 10px;
 }
 
 p {
-  font-family: 'Roboto Slab';
+  font-family: 'Source Sans Pro';
   font-size: 12px;
   font-weight: 300;
 }
 
 label {
   font-size: 14px;
-  font-weight: 500; 
+  font-weight: 500;
 }
 
 input {
@@ -53,9 +64,9 @@ a {
 
 .panel {
   background-color: white;
-  padding: 10px;
+  padding: 15px;
   margin-bottom: 10px;
-  margin-top: 50px;
+  margin-top: 10px;
   border-radius: 0px;
 
   position: fixed;
@@ -74,16 +85,19 @@ a {
   position: relative;
   overflow: hidden;
   cursor: pointer;
+  margin: 10px 10px 8px 10px;
 
+  -webkit-box-shadow: 0px 4px 8px -1px rgba(0,0,0,0.25);
+  -moz-box-shadow: 0px 4px 8px -1px rgba(0,0,0,0.25);
+  box-shadow: 0px 4px 8px -1px rgba(0,0,0,0.25);
 }
 
 .property .inner {
   position: relative;
-  margin: 10px;
-  -webkit-box-shadow: 0px 4px 8px -1px rgba(0,0,0,0.25);
-  -moz-box-shadow: 0px 4px 8px -1px rgba(0,0,0,0.25);
-  box-shadow: 0px 4px 8px -1px rgba(0,0,0,0.25);
+  bottom: 121px;
+  /*margin: 10px;*/
   overflow: hidden;
+  /*min-height: 450px;*/
 }
 
 #map {
@@ -109,11 +123,23 @@ img.main-image {
 
 .overlay {
   position: absolute;
-  bottom: 0;
+  bottom: 0px;
   z-index: 3;
   width: 100%;
-  /*background-color: white;*/
+  /*  -webkit-box-shadow: 0px 4px 8px -1px rgba(0,0,0,0.25);
+    -moz-box-shadow: 0px 4px 8px -1px rgba(0,0,0,0.25);
+    box-shadow: 0px 4px 8px -1px rgba(0,0,0,0.25);*/
+  background-color: white;
+  /*border-top: 5px solid white;*/
+  border-bottom: 5px solid white;
 }
+
+.inner img {
+  border-top: 5px solid white;
+  border-right: 5px solid white;
+  border-left: 5px solid white;
+}
+
 
 .overlay img {
   height: 75px;
@@ -132,12 +158,13 @@ img.main-image {
 .overlay p {
   margin: 0px;
   padding: 0px 5px 10px 5px;
-  font-family: 'Roboto Slab';
+  font-family: 'Source Sans Pro';
   font-size: 10px;
   color: rgba(66, 68, 67, 0.75);
 }
 
 .pic-label {
+  padding: 0px 3px;
   width: 100%;
   background-color: white;
 }
@@ -185,6 +212,40 @@ span.value {
 
 .close:hover {
   opacity: 0.8;
+}
+
+
+.background-rect {
+  fill: gainsboro;
+}
+
+svg text {
+  font-family: 'Source Sans Pro';
+  font-size: 12px;
+}
+
+.axis path, .axis line {
+  fill: none;
+  stroke: gray;
+  shape-rendering: crispEdges;
+}
+
+.value {
+  /*position: absolute;*/
+  display: inline-block;
+  vertical-align: bottom;
+  bottom: 0px;
+  left: 0px;
+  text-align: center;
+}
+
+.income {
+  /*position: absolute;*/
+  display: inline-block;
+  vertical-align: bottom;
+  bottom: 0px;
+  right: 0px;
+  text-align: center;
 }
 
 

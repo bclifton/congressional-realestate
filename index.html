@@ -6,11 +6,21 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Real Estate Assets Owned by Members of the US Congress</title>
+  <title>Real Estate Assets Owned by Members of the US Congress (2014)</title>
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/png" sizes="192x192"  href="https://the-lives-of-congress.s3.amazonaws.com/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://the-lives-of-congress.s3.amazonaws.com/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="https://the-lives-of-congress.s3.amazonaws.com/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://the-lives-of-congress.s3.amazonaws.com/favicon-16x16.png">
+  <link rel="manifest" href="https://the-lives-of-congress.s3.amazonaws.com/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="https://the-lives-of-congress.s3.amazonaws.com/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
 
-  <link href='http://fonts.googleapis.com/css?family=Inconsolata:400,700|Roboto+Condensed:700|Roboto:400|Roboto+Slab:300' rel='stylesheet' type='text/css'>
+
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro|Libre+Baskerville:400,700,400italic" rel="stylesheet" type="text/css">
+  <!-- <link href='http://fonts.googleapis.com/css?family=Inconsolata:400,700|Roboto+Condensed:700|Roboto:400|Roboto+Slab:300' rel='stylesheet' type='text/css'> -->
   <link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v3/3.13/themes/css/cartodb.css" />
   <link rel="stylesheet" href="https://api.tiles.mapbox.com/mapbox.js/v2.1.2/mapbox.css" />
   <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -30,7 +40,7 @@
     <div class="row">
       <div class="col-sm-3">
         <div class="panel" id="info-panel">
-          <h2>Real Estate Assets Owned by Members of the US Congress</h2>
+          <h2>Real Estate Assets Owned by Members of the US Congress (2014)</h2>
           <p>by <a href="http://www.briancliftonstudio.com/">Brian Clifton</a> and <a href="https://lav.io">Sam Lavigne</a></p>
           <hr>
           <p>
@@ -49,12 +59,12 @@
             <div class="filter">
               <label for="sort">Sort by</label>
               <select name="sort">
-                <option value="alpha" selected="selected">Name</option> 
-                <option value="quantity">Total Assets</option> 
-                <option value="value">Value (high to low)</option> 
-                <option value="valueAsc">Value (low to high)</option> 
-                <option value="income">Income (high to low)</option> 
-                <option value="incomeAsc">Income (low to high)</option> 
+                <option value="alpha" selected="selected">Name</option>
+                <option value="quantity">Total Assets</option>
+                <option value="value">Value (high to low)</option>
+                <option value="valueAsc">Value (low to high)</option>
+                <option value="income">Income (high to low)</option>
+                <option value="incomeAsc">Income (low to high)</option>
               </select>
             </div>
             <div class="filter">
@@ -66,28 +76,44 @@
         </div>
       </div>
       <div class="col-sm-9">
-        <div id="properties-wrapper"></div>    
+        <div id="properties-wrapper"></div>
       </div>
     </div>
-    
+
   </div>
 
   <script id="property-template" type="text/x-handlebars-template">
   <div id="properties">
     {{#each items}}
     <div class="property">
-      <div class="inner">
+      <div class='image-loc'>
         <img src="http://congress-home.s3.amazonaws.com/images/property/{{this.pfid}}.jpg" class="main-image">
+      </div>
+      
+      <div class="inner">
+        <!--<img src="https://the-lives-of-congress.s3.amazonaws.com/{{this.cid}}.jpg">-->
+        <img src="http://congress-home.s3.amazonaws.com/images/people/{{this.cid}}.jpg">
+        
+      </div>
+      <div class="overlay">
+        <div class="pic-label">
+          <h2>{{this.fullname}}</h2>
+          <p>{{this.google_address}}</p>
+          <hr>
 
-        <div class="overlay">
-
-          <img src="http://congress-home.s3.amazonaws.com/images/people/{{this.cid}}.jpg">
-          <div class="pic-label">
-            <h2>{{this.fullname}}</h2>
-            <p>{{this.google_address}}</p>
-            <p>Reported value: <span class="value">{{display_value this.min_value this.max_value}}</span></p>
-            <p>Reported yearly income: <span class="income">{{display_value this.min_income this.max_income}}</span></p>
+          <div class="row">
+          <div class="col-xs-6 value"><h4>{{display_value this.max_value false}}</h4><p>value of the property</p></div>
+          <div class="col-xs-6 income"><h4>{{display_value this.max_income true}}</h4><p>income from the property</p></div>
           </div>
+
+          <!--
+          <p>Reported yearly income: <span class="income">{{display_value this.min_income this.max_income}}</span></p>
+          <p>Reported yearly value: <span class="value">{{display_value this.min_value this.max_value}}</span></p>
+          -->
+          <!--<p>Reported yearly income:</p>
+          <div id='income-bar'></div>
+          <p>Reported yearly value:</p>
+          <div id='value-bar'></div>-->
         </div>
       </div>
     </div>
@@ -95,7 +121,7 @@
   </div>
   </script>
 
-  
+
 
   <script type="text/javascript" charset="utf-8" src="js/vendor/jquery-1.11.1.min.js"></script>
   <script src="js/vendor/bootstrap.min.js"></script>

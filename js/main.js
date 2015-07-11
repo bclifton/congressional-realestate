@@ -1,6 +1,5 @@
 var sublayers = [];
 
-
 window.onload = function() {
   var map = new L.Map('map', {
       center: [39.8282, -98.5795],
@@ -14,20 +13,20 @@ window.onload = function() {
     .addTo(map);
 
   var sublayerOptions = {
-          sql: "SELECT * FROM property_unique_carto",
-          cartocss: "#null{"+
-            "marker-fill-opacity: 0.9;"+
-            "marker-line-color: #FFF;"+
-            "marker-line-width: 1.5;"+
-            "marker-line-opacity: 0;"+
-            "marker-placement: point;"+
-            "marker-type: ellipse;"+
-            "marker-width: 6;"+
-            "marker-fill: #e6842a;"+
-            "marker-opacity: 0.75;"+
-            "marker-allow-overlap: true;"+
-          "}"
-    };
+    sql: "SELECT * FROM property_unique_carto",
+    cartocss: "#null{"+
+      "marker-fill-opacity: 0.9;"+
+      "marker-line-color: #FFF;"+
+      "marker-line-width: 1.5;"+
+      "marker-line-opacity: 0;"+
+      "marker-placement: point;"+
+      "marker-type: ellipse;"+
+      "marker-width: 6;"+
+      "marker-fill: #e6842a;"+
+      "marker-opacity: 0.75;"+
+      "marker-allow-overlap: true;"+
+    "}"
+  };
 
   cartodb.createLayer(map, 'http://brianclifton.cartodb.com/api/v2/viz/0aac4b22-d881-11e4-843e-0e0c41326911/viz.json')
     .addTo(map)
@@ -127,7 +126,7 @@ function extract_address(address) {
   };
 }
 
-d3.csv('assets/property_with_income.csv', function(data){
+d3.csv('assets/property_with_income_edited____.csv', function(data){
 
   data = data.map(function(d){
     // d.fullname = d.full_name;
@@ -153,18 +152,132 @@ d3.csv('assets/property_with_income.csv', function(data){
 
   var html = property_template(data);
   d3.select('#properties-wrapper').html(html);
-  d3.selectAll('.property')
-    .data(data.items)
-    .on('click', function(d){
+
+  
+  ///////////// Bar charts:
+  var margin = {top: 15, right: 5, bottom: 0, left: 5};
+  var barHeight = 10;
+  var barMaxWidth = d3.select('.property').node().getBoundingClientRect().width - margin.right;
+
+  var formatCurrency = d3.format(",");
+
+  var xValue = d3.scale.linear()
+    .domain([
+      d3.min(data.items, function(d) { return d.max_value; }),
+      d3.max(data.items, function(d) { return d.max_value; })
+    ])
+    .range([0, barMaxWidth]);
+
+  var xIncome = d3.scale.linear()
+    .domain([
+      d3.min(data.items, function(d) { return d.max_income; }),
+      d3.max(data.items, function(d) { return d.max_income; })
+    ])
+    .range([0, barMaxWidth]);
+
+
+  var xValueAxis = d3.svg.axis()
+    .scale(xValue)
+    .tickValues(xValue.domain())
+    .orient("top");
+
+
+  var entry = d3.selectAll('.property')
+    .data(data.items);
+
+
+  // var vbar = entry.select('#value-bar')
+  //   .append('svg')
+  //   .attr('width', barMaxWidth)
+  //   .attr('height', 25);
+
+  // vbar.append('rect')
+  //   .attr('class', 'background-rect')
+  //   .attr('x', margin.left)
+  //   .attr('y', margin.top)
+  //   .attr('width', barMaxWidth)
+  //   .attr('height', barHeight);
+
+  // vbar.append('rect')
+  //   .attr('x', margin.left)
+  //   .attr('y', margin.top)
+  //   .attr('width', function(d) {return xValue(d.max_value); })
+  //   .attr('height', barHeight)
+  //   .style('fill', 'cadetblue');
+
+  // vbar.append('text')
+  //   .attr("x", function(d) { 
+  //     if (+d.max_value < 20000) {
+  //       return 5;
+  //     } else if (d.max_value === '5000000') {
+  //       return xValue(d.max_value) - 55;
+  //     } else {
+  //       return xValue(d.max_value);
+  //     }
+  //   })
+  //   .attr("dy", ".71em")
+  //   // .style("text-anchor", "end")
+  //   .text(function(d) { return '$' + formatCurrency(d.max_value); });
+
+  // var ibar = entry.select('#income-bar')
+  //   .append('svg')
+  //   .attr('width', barMaxWidth)
+  //   .attr('height', 25);
+
+  //   // ibar.append("g")
+  //   //   .attr("class", "x axis")
+  //   //   .attr("transform", "translate(0," + barHeight + ")")
+  //   //   // .attr("transform", "translate(0,0)")
+  //   //   .call(xValueAxis);
+
+  // ibar.append('rect')
+  //   .attr('class', 'background-rect')
+  //   .attr('x', margin.left)
+  //   .attr('y', margin.top)
+  //   .attr('width', barMaxWidth)
+  //   .attr('height', barHeight);
+
+  // ibar.append('rect')
+  //   // .attr('class', 'background-rect')
+  //   .attr('x', margin.left)
+  //   .attr('y', margin.top)
+  //   .attr('width', function(d) {
+
+  //     if (d.max_income === 0) {
+  //       console.log(d3.select(this));
+  //     } else {
+  //       return xIncome(d.max_income);
+  //     }
+  //   })
+  //   .attr('height', barHeight)
+  //   .style('fill', 'cadetblue');
+
+  //   ibar.append('text')
+  //     .attr("x", function(d) { 
+  //       if (+d.max_income < 2000) {
+  //         return 5;
+  //       } else if (d.max_income === '5000000') {
+  //         return xIncome(d.max_income) - 55;
+  //       } else {
+  //         return xIncome(d.max_income);
+  //       }
+  //     })
+  //     .attr("dy", ".71em")
+  //     // .style("text-anchor", "end")
+  //     .text(function(d) { return '$' + formatCurrency(d.max_income); });
+
+  ////////// Click interactivity: 
+
+  entry.on('click', function(d){
       var me = d3.select(this);
       var embed_url = d.streetview_embed;
       var img = me.select('.main-image');
-      var h = me.select('.inner').node().getBoundingClientRect().height;
-
-      var iframe = me.select('.inner')
+      var h = img.node().getBoundingClientRect().height;
+      
+      var iframe = me.select('.image-loc')
         .append('iframe')
         .attr('src', embed_url)
-        .attr('width', '100%')
+        .attr('width', '99.9%')
         .attr('height', h)
         .attr('frameborder', '0')
         .style('display', 'none');
@@ -241,20 +354,32 @@ function numberWithCommas(x) {
   return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 }
 
-Handlebars.registerHelper('display_value', function(minv, maxv){
-  if (!minv || !maxv) {
-    return 'unknown';
-  }
-  minv = +minv;
+// Handlebars.registerHelper('display_value', function(minv, maxv){
+//   if (!minv || !maxv) {
+//     return 'unknown';
+//   }
+//   minv = +minv;
+//   maxv = +maxv;
+//   if (minv === maxv){
+//     if (minv === 0) {
+//       return '$0.0';
+//     } else {
+//       return 'Over $' + numberWithCommas(minv-1);
+//     }
+//   } else {
+//     if (minv > 0) minv--;
+//     return '$' + numberWithCommas(minv) + ' to $' + numberWithCommas(maxv);
+//   }
+// });
+
+Handlebars.registerHelper('display_value', function(maxv, income){
   maxv = +maxv;
-  if (minv === maxv){
-    if (minv === 0) {
-      return '$0.0';
-    } else {
-      return 'Over $' + numberWithCommas(minv-1);
-    }
+  console.log(income);
+
+  if (income === true && maxv === 0) {
+    return 'No Income';
   } else {
-    if (minv > 0) minv--;
-    return '$' + numberWithCommas(minv) + ' to $' + numberWithCommas(maxv);
+    return '$' + numberWithCommas(maxv);  
   }
+  
 });
