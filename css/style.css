@@ -81,7 +81,7 @@ a {
 
 .property {
   float: left;
-  width: 33.33%;
+  width: 31%;
   position: relative;
   overflow: hidden;
   cursor: pointer;
@@ -248,6 +248,38 @@ svg text {
   text-align: center;
 }
 
+img.popup-img {
+  max-width: 100px;
+}
+
+.leaflet-popup-content-wrapper {
+  border-radius: 4px;
+}
+
+.leaflet-popup-content {
+  margin: 0;
+  padding: 5px 10px 10px;
+  width: 120px !important; 
+}
+
+.leaflet-popup-content.popup-img {
+  width: 100px;
+}
+
+.leaflet-popup-content p {
+  margin: 5px 0px 0px;
+  font-size: 10px;
+  line-height: 1;
+}
+
+.leaflet-popup-content h4 {
+  font-family: 'Libre Baskerville';
+  font-size: 10px;
+  font-weight: bold;
+  margin: 3px 0 -2px 0 !important;
+  line-height: 1.25;
+}
+
 
 @media (max-width: 1600px) {
   .property {
@@ -257,18 +289,18 @@ svg text {
 
 @media (max-width: 1400px) {
   .property {
-    width: 33.33%;
+    width: 30%;
   }
 }
 
 @media (max-width: 1000px) {
   .property {
-    width: 50%;
+    width: 46%;
   }
 }
 
 @media (max-width: 700px) {
   .property {
-    width: 100%;
+    width: 98%;
   }
 }

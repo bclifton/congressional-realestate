@@ -1,62 +1,3 @@
-var sublayers = [];
-
-window.onload = function() {
-  var map = new L.Map('map', {
-      center: [39.8282, -98.5795],
-      zoom: 2
-    });
-
-  L.mapbox.tileLayer('bclifton.9f0ca136', {
-      accessToken: 'pk.eyJ1IjoiYmNsaWZ0b24iLCJhIjoicWNXT0Z6OCJ9.JvNO6GIbU8BZ-8LLSEwz2Q',
-      attribution: ""
-    })
-    .addTo(map);
-
-  var sublayerOptions = {
-    sql: "SELECT * FROM property_unique_carto",
-    cartocss: "#null{"+
-      "marker-fill-opacity: 0.9;"+
-      "marker-line-color: #FFF;"+
-      "marker-line-width: 1.5;"+
-      "marker-line-opacity: 0;"+
-      "marker-placement: point;"+
-      "marker-type: ellipse;"+
-      "marker-width: 6;"+
-      "marker-fill: #e6842a;"+
-      "marker-opacity: 0.75;"+
-      "marker-allow-overlap: true;"+
-    "}"
-  };
-
-  cartodb.createLayer(map, 'http://brianclifton.cartodb.com/api/v2/viz/0aac4b22-d881-11e4-843e-0e0c41326911/viz.json')
-    .addTo(map)
-    .on('done', function(layer){
-      var sublayer = layer.getSubLayer(0);
-      sublayer.set(sublayerOptions);
-      sublayers.push(sublayer);
-
-      // sublayer.on('featureClick', function(e, latlng, pos, data) {
-      //   console.log('data:', data);
-      // });     
-    })
-    .on('error', function(err) {
-        console.log(err);
-    });    
-};
-
-var LayerActions = {
-  selection: function(ids){
-    var id = ids.join("','");
-    var query = "SELECT * FROM property_unique_carto WHERE pfid IN ('" + id + "')";
-    sublayers[0].setSQL(query);
-    return true;
-  },
-  all: function(){
-    sublayers[0].setSQL("SELECT * FROM property_unique_carto");
-  }
-};
-
-
 
 var people_assets = {};
 
@@ -126,10 +67,64 @@ function extract_address(address) {
   };
 }
 
-d3.csv('assets/property_with_income_edited____.csv', function(data){
 
-  data = data.map(function(d){
-    // d.fullname = d.full_name;
+var LayerActions = {
+  selection: function(ids){
+    map.closePopup();
+    d3.selectAll('.leaflet-zoom-animated g path').style('display', 'none');
+    ids.forEach(function(id) {
+      d3.selectAll('.' + id).style('display', 'block');
+    });
+  },
+  all: function(){
+    map.closePopup();
+    d3.selectAll('.leaflet-zoom-animated g path').style('display', 'block');
+  }
+};
+
+function createMap(data) {
+  
+  var accessToken = 'pk.eyJ1IjoiYmNsaWZ0b24iLCJhIjoicWNXT0Z6OCJ9.JvNO6GIbU8BZ-8LLSEwz2Q';
+  var mapID = 'bclifton.9f0ca136';
+  var mapboxTiles = L.tileLayer('https://{s}.tiles.mapbox.com/v4/' + mapID + '/{z}/{x}/{y}.png?access_token=' + accessToken, {
+      attribution: '<a href="http://www.mapbox.com/about/maps/" target="_blank">Terms &amp; Feedback</a>',
+      detectRetina: true
+  });
+
+  map = new L.Map('map', {
+    center: [39.8282, -98.5795],
+    zoom: 2
+  })
+  .addLayer(mapboxTiles);
+
+  var popup = L.popup({
+    offset: new L.Point(0, 5)
+  });
+
+  data.forEach(function(d) {
+    L.circleMarker([+d.lat, +d.lng], {
+      fillColor: 'rgb(142, 108, 138)',
+      fillOpacity: 0.45,
+      radius: 3,
+      stroke: false,
+      className: d.pfid
+    })
+    .addTo(map)
+    .on('click', function(e) {
+      popup.setLatLng(e.latlng)
+        .setContent('<img src="http://congress-home.s3.amazonaws.com/images/property/' + d.pfid + '.jpg" class="popup-img"/><br><h4>' + d.fullname + '</h4><p class="graph-description">' + d.google_address + '</p>')
+        .openOn(map);
+    });
+  });
+}
+
+//////////////////////////////////////////////////////////////////////////////////////////
+
+d3.csv('assets/property_with_income_edited____.csv', function(initialData){
+
+  createMap(initialData);
+
+  var data = initialData.map(function(d){
     d.fullname = clean_name(d.name);
     d.address = extract_address(d.google_address);
     return d;
@@ -153,120 +148,9 @@ d3.csv('assets/property_with_income_edited____.csv', function(data){
   var html = property_template(data);
   d3.select('#properties-wrapper').html(html);
 
-  
-  ///////////// Bar charts:
-  var margin = {top: 15, right: 5, bottom: 0, left: 5};
-  var barHeight = 10;
-  var barMaxWidth = d3.select('.property').node().getBoundingClientRect().width - margin.right;
-
-  var formatCurrency = d3.format(",");
-
-  var xValue = d3.scale.linear()
-    .domain([
-      d3.min(data.items, function(d) { return d.max_value; }),
-      d3.max(data.items, function(d) { return d.max_value; })
-    ])
-    .range([0, barMaxWidth]);
-
-  var xIncome = d3.scale.linear()
-    .domain([
-      d3.min(data.items, function(d) { return d.max_income; }),
-      d3.max(data.items, function(d) { return d.max_income; })
-    ])
-    .range([0, barMaxWidth]);
-
-
-  var xValueAxis = d3.svg.axis()
-    .scale(xValue)
-    .tickValues(xValue.domain())
-    .orient("top");
-
 
   var entry = d3.selectAll('.property')
     .data(data.items);
-
-
-  // var vbar = entry.select('#value-bar')
-  //   .append('svg')
-  //   .attr('width', barMaxWidth)
-  //   .attr('height', 25);
-
-  // vbar.append('rect')
-  //   .attr('class', 'background-rect')
-  //   .attr('x', margin.left)
-  //   .attr('y', margin.top)
-  //   .attr('width', barMaxWidth)
-  //   .attr('height', barHeight);
-
-  // vbar.append('rect')
-  //   .attr('x', margin.left)
-  //   .attr('y', margin.top)
-  //   .attr('width', function(d) {return xValue(d.max_value); })
-  //   .attr('height', barHeight)
-  //   .style('fill', 'cadetblue');
-
-  // vbar.append('text')
-  //   .attr("x", function(d) { 
-  //     if (+d.max_value < 20000) {
-  //       return 5;
-  //     } else if (d.max_value === '5000000') {
-  //       return xValue(d.max_value) - 55;
-  //     } else {
-  //       return xValue(d.max_value);
-  //     }
-  //   })
-  //   .attr("dy", ".71em")
-  //   // .style("text-anchor", "end")
-  //   .text(function(d) { return '$' + formatCurrency(d.max_value); });
-
-  // var ibar = entry.select('#income-bar')
-  //   .append('svg')
-  //   .attr('width', barMaxWidth)
-  //   .attr('height', 25);
-
-  //   // ibar.append("g")
-  //   //   .attr("class", "x axis")
-  //   //   .attr("transform", "translate(0," + barHeight + ")")
-  //   //   // .attr("transform", "translate(0,0)")
-  //   //   .call(xValueAxis);
-
-  // ibar.append('rect')
-  //   .attr('class', 'background-rect')
-  //   .attr('x', margin.left)
-  //   .attr('y', margin.top)
-  //   .attr('width', barMaxWidth)
-  //   .attr('height', barHeight);
-
-  // ibar.append('rect')
-  //   // .attr('class', 'background-rect')
-  //   .attr('x', margin.left)
-  //   .attr('y', margin.top)
-  //   .attr('width', function(d) {
-
-  //     if (d.max_income === 0) {
-  //       console.log(d3.select(this));
-  //     } else {
-  //       return xIncome(d.max_income);
-  //     }
-  //   })
-  //   .attr('height', barHeight)
-  //   .style('fill', 'cadetblue');
-
-  //   ibar.append('text')
-  //     .attr("x", function(d) { 
-  //       if (+d.max_income < 2000) {
-  //         return 5;
-  //       } else if (d.max_income === '5000000') {
-  //         return xIncome(d.max_income) - 55;
-  //       } else {
-  //         return xIncome(d.max_income);
-  //       }
-  //     })
-  //     .attr("dy", ".71em")
-  //     // .style("text-anchor", "end")
-  //     .text(function(d) { return '$' + formatCurrency(d.max_income); });
-
-  ////////// Click interactivity: 
 
   entry.on('click', function(d){
       var me = d3.select(this);
@@ -374,7 +258,6 @@ function numberWithCommas(x) {
 
 Handlebars.registerHelper('display_value', function(maxv, income){
   maxv = +maxv;
-  console.log(income);
 
   if (income === true && maxv === 0) {
     return 'No Income';
